@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Goede voornemens</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+</head>
+
+<body>
+	<header class="navbar navbar-default navbar-inverse" role="navigation">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">Dieet app</a>
+		</div>
+
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">    
+			<ul class="nav navbar-nav navbar-right">
+				<li class="active"><a href="../index.html">Home</a></li>
+				<li><a href="../logoff.html">Logoff</a></li>
+			</ul>
+		</div>
+	</header>	
+
+	<div class="alert hide rel="tooltip" title="messageCode">
+		<strong><label id="messageType" for="messageType">messageType</label></strong>
+		<label id="messageText" for="messageText">messageText</label>
+	</div>
+	
+	<div class="container container-goals">
+		<div class="row" id="productSearch">
+			<div class="col-lg-8 col-md-10 col-md-offset-1 col-lg-offset-2 column">	
+				<form role="form" id="settingsForm">
+					<div class="form-group">
+						<label for="dateOfBirth">Geboortedatum</label>
+						<input type='date' class="form-control" id="dateOfBirth" name='dateOfBirth' data-value="1970-01-01"/>
+					</div>
+					<div class="radio">
+						<label>
+							<input type="radio" name="Geslacht" id="male" value="Man" checked>Man
+						</label>
+					</div>
+					<div class="radio">
+						<label>
+							<input type="radio" name="Geslacht" id="female" value="Vrouw" checked>Vrouw
+						</label>
+					</div>
+					<div class="form-group">
+						<label for="length">Lengte in cm</label>
+						<input type='number' class="form-control" value=180 id="length" name='length'/>
+						</div>
+					<div class="form-group">
+						<label for="weight">Gewicht</label>
+						<input type='number' class="form-control" value=85 id="weight" name='weight'/>
+						</div>
+					<div class="form-group">
+						<label for="desiredWeight">Streefgewicht</label>
+						<input type='number' class="form-control" value=75 id="desiredWeight" name='desiredWeight'/>
+						</div>
+					<div class="form-group">
+						<label for="activities">Lichaamsbeweging</label>
+						<select class="form-control" name='lichaamsbeweging' id='exercise'>
+							<option value='1.2'>Geen tot weinig</option>
+							<option value='1.375'>Licht</option>
+							<option value='1.55'>Normaal</option>
+							<option value='1.725'>Zwaar</option>
+							<option value='1.9'>Zeer zwaar</option>
+						</select></br></br>	
+						</div>
+					<div class="form-actions">
+						<button class="btn btn-primary">Volgende</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<script data-main="js/src/settings" src="js/lib/require-jquery.js"></script>
+</body>
+</html>

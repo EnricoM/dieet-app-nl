@@ -1,0 +1,147 @@
+	{"category" : "Brood", "product":"bolus","Defaulthoev":1,"Eenheid":"stuk", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 315,"Eiwit":  5, "Koolh": 36, "Vet": 16}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1},
+			{"omschrijving":"gram)", "hoeveelheid":-1}
+		]
+	}	
+	
+	{"category" : "Brood", "product":"beschuit","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 379,"Eiwit":  9.9,"Koolh": 75.5,"Vet": 4.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"beschuitje", "hoeveelheid":10},
+			{"omschrijving":"gram)", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"volkoren","Defaulthoev":100,"Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 208,"Eiwit":  5.7,"Koolh": 40.0,"Vet": 2.8}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"wit","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 226,"Eiwit":  6.5,"Koolh": 50.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"bruin","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 250,"Eiwit":  9.5,"Koolh": 45.1,"Vet": 3.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"cracker","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 477,"Eiwit": 11.0,"Koolh": 97.0,"Vet": 5.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":7},
+			{"omschrijving":"gram", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"croissant","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 130,"Eiwit":  4.0,"Koolh": 24.0,"Vet": 2.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":-1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"krentenbol","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit":  8.0,"Koolh": 51.7,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":-1}																
+		]
+	}
+	
+	{"category" : "Brood", "product":"krentenbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 255,"Eiwit":  7.0,"Koolh": 50.0,"Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":-1}																
+		]
+	}	
+	
+	{"category" : "Brood", "product":"pistolet","Defaulthoev":30,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 104,"Eiwit":  3.0,"Koolh": 23.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":-1}																				
+		]
+	}	
+	
+	{"category" : "Brood", "product":"pitabroodje","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 257,"Eiwit":  8.6,"Koolh": 53.0,"Vet": 1.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":-1}																								
+		]
+	}	
+	
+	{"category" : "Brood", "product":"roggebrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 189,"Eiwit":  5.0,"Koolh": 40.0,"Vet": 1.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":-1}																										
+		]
+	}
+	
+	{"category" : "Brood", "product":"saucijzenbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 308,"Eiwit": 22.2,"Koolh":  0.9,"Vet":24.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":-1}																														
+		]
+	}	
+	
+	{"category" : "Brood", "product":"stokbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 259,"Eiwit":  8.1,"Koolh": 52.0,"Vet": 2.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+		]
+	}	
+	
+	{"category" : "Brood", "product":"suikerbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 294,"Eiwit":  6.1,"Koolh": 64.0,"Vet": 1.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+		]
+	}

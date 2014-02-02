@@ -1,0 +1,145 @@
+	{"category" : "Desserts", "product":"advocaat vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Zuivelhoeve","Kcal":107,"Eiwit":  3.3,"Koolh": 15.0,"Vet": 3.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"bakje", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	{"category" : "Desserts", "product":"vanille traum", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Ehrmann", "Kcal": 126, "Eiwit": 4.4, "Koolh": 18.0, "Vet": 4.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"toetje (125 gram)", "hoeveelheid": 125},
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Desserts", "product":"chipolatapudding","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 225,"Eiwit":  4.3,"Koolh": 24.1,"Vet":12.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"chocolademousse","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 252,"Eiwit":  2.5,"Koolh": 26.3,"Vet":15.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"chocoladepudding","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 125,"Eiwit":  4.0,"Koolh": 20.0,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Desserts", "product":"chocoladevla vol","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  86,"Eiwit":  3.3,"Koolh": 12.5,"Vet": 2.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"custardpoeder","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 340,"Eiwit":  0.0,"Koolh": 85.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"havermoutpap","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  74,"Eiwit":  3.9,"Koolh":  7.5,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Desserts", "product":"mascarpone","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 457,"Eiwit":  5.2,"Koolh":  4.3,"Vet":46.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Desserts", "product":"rijstpap danone","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 137,"Eiwit":  3.2,"Koolh": 23.2,"Vet": 3.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Desserts", "product":"vanillepudding","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 105,"Eiwit":  4.5,"Koolh": 19.0,"Vet": 1.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Desserts", "product":"vanillevla mager","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  67,"Eiwit":  3.5,"Koolh": 13.0,"Vet": 0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{"category" : "Desserts", "product":"vanillevla vol","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  75,"Eiwit":  2.9,"Koolh": 10.1,"Vet": 2.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{"category" : "Desserts", "product":"vitalinea pruimen", "Defaulthoev":1, "Eenheid":"reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 108,"Eiwit":  1.1,"Koolh": 20.7,"Vet": 2.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{"category" : "Desserts", "product":"vitalinea abrikozen", "Defaulthoev":1, "Eenheid":"reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 102,"Eiwit":  1.4,"Koolh": 18.0,"Vet": 2.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{"category" : "Desserts", "product":"watergruwel","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  60,"Eiwit":  1.0,"Koolh": 14.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	

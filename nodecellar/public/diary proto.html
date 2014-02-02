@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Goede voornemens</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="css/difreet.css">
+</head>
+<body>
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-th-list"></span>
+				</a>
+				<a href="#"class="brand">Goede voornemens</a>
+				<div class="nav-collapse collapse">
+					<ul class="nav pull-right">
+						<li class="active"><a href="#register" data-toggle="modal">Dagboek</a></li>
+						<li><a href="#">Voortgang</a></li>
+						<li><a href="#">Doelen</a></li>
+						<li><a href="#">Logout</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container container-diary">
+		<div class="row-fluid">
+			<div class="span12">
+				<form class="well form-search form-inline">
+					<input id ='diary_datePicker' type='date' name='diary_date'>
+					<select class="span3" name='categories' id='categories'>
+						<option value='Q1'>Fruit</option>
+						<option value='Q2'>Groente</option>
+						<option value='Q3'>Ijs</option>
+						<option value='Q3'>Zuivel</option>
+					</select>
+					<input type="text" class="span3"/>
+					<button type="submit" class="btn btn-reset">Clear</button>
+				</form>
+			</div>			
+		</div>
+	</div>
+
+	<div class="modal hide" id="diaryDetails" aria-hidden="true">
+		<div class="modal-header">
+			<h3>Toevoegen aan dagboek
+			<button class="btn pull-right btn-small" data-dismiss="modal" aria-hidden="true">Close</button>
+			</h3>
+		</div>
+		<div class="modal-body">
+			<form>
+				<fieldset>
+					<input type='text' id='quantity-for-diary'/><br/>
+					<select name='Eenheden' id='eenheden_diary'>
+						<option value='{omschrijving}'>kleine</option>
+						<option value='{omschrijving}'>normale</option>
+						<option value='{omschrijving}'>grote</option>
+						<option value='{omschrijving}'>gram</option>
+					</select><br/><br/>
+					<input type='button' value='dagboek' id='add-to-diary' class='details-button'/>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+
+	<div class="container container-diary">
+		<div class="row-fluid">
+			<div class="span4">
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Categorie</th>
+							<th>Product</th>
+							<th>Hoeveelheid</th>
+							<th>Kcal</th>
+							<th>Eiwit</th>
+							<th>Koolh</th>
+							<th>Vet</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Fruit</td>
+							<td>Appel</td>
+							<td>1</td>
+							<td>24</td>
+							<td>2</td>
+							<td>23</td>
+							<td>0</td>
+						</tr>
+						<tr>
+							<td>Fruit</td>
+							<td>Banaan</td>
+							<td>1</td>
+							<td>24</td>
+							<td>2</td>
+							<td>23</td>
+							<td>0</td>
+						</tr>
+						<tr>
+							<td>Fruit</td>
+							<td>Citroen</td>
+							<td>1</td>
+							<td>24</td>
+							<td>2</td>
+							<td>23</td>
+							<td>0</td>
+						</tr>
+					</tbody>
+					<tfoot>
+						<tr>
+							<th>Totaal</th>
+							<th></th>
+							<th></th>
+							<th>72</th>
+							<th>6</th>
+							<th>69</th>
+							<th>0</th>
+						</tr>
+						<tr>
+							<th>Minimum</th>
+						</tr>
+						<tr>
+							<th>Maximum</th>
+						</tr>					
+					</tfoot>				
+				</table>
+			</div>
+			<div class="span8">
+				<ul class="thumbnails">
+				  <li>
+					<a href="#diaryDetails" data-toggle="modal" class="thumbnail">
+					  <img src="img/aalbessen.jpg" alt="Aalbessen" Title="Aalbessen" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/aardbeien.jpg" alt="Aardbei" Title="Aardbei" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/abrikoos.jpg" alt="Abrikoos" Title="Abrikoos" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/ananas.jpg" alt="Ananas" Title="Ananas" width='120' height='120' category="Fruit">
+					</a>
+				  </li>	
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/aalbessen.jpg" alt="Aalbessen" Title="Aalbessen" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/aardbeien.jpg" alt="Aardbei" Title="Aardbei" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/abrikoos.jpg" alt="Abrikoos" Title="Abrikoos" width='120' height='120' category="Fruit">
+					</a>
+				  </li>
+				  <li>
+					<a href="#" class="thumbnail">
+					  <img src="img/ananas.jpg" alt="Ananas" Title="Ananas" width='120' height='120' category="Fruit">
+					</a>
+				  </li>	
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<script src="js/lib/jquery-1.10.1.js"></script>
+	<script src="js/lib/bootstrap.js""></script>
+</body>
+
+</html>
