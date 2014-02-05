@@ -9,27 +9,17 @@ requirejs.config({
 require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquery.validate.override"], function(jsontemplate, bootstrap, serviceAgent, $) {
 	$(document).ready(function(){
 	
-		var searchResultScreenXS =	
-			"<div id='resultsXS'>" +
-			"{.section products}" + 
-			"{.repeated section @}" + 
-			"<div id='searchResultScreenXS' class='col-xs-6 hidden-sm hidden-md hidden-lg column'>"+
-        		"<a data-toggle='modal' href='#diaryDetails' class='searchResult'>" +
-				"<img src='img/{product}.jpg' class='thumbnail img-responsive' alt='{product}' title='{product}' product='{product}' category='{category}' _id='{_id}'/>" +
-				"</a>" +
-			"</div>"+
-			"{.end}" +
-			"{.end}" +
-			"</div>";
-			
+		var modalStuff = "<div class='modal-backdrop in'></div>";
+		
 		var searchResultScreenNonXS =	
 			"{.section products}" + 
 			"<div class='row'>"+
 			"<div id='resultsNonXS'>" +			
 			"{.repeated section @}" + 
-			"<div class='col-xl-3 column'>"+
-        		"<a data-toggle='modal' href='#diaryDetails' class='searchResult'>" +
-				"<img src='img/{product}.jpg' class='thumbnail img-responsive' alt='{product}' title='{product}' product='{product}' category='{category}' _id='{_id}'/>" +
+			"<div class='col sm-4 col-md-3 col-lg-2 column'>"+
+        		"<a data-toggle='modal' href='#diaryDetails' class='searchResult' _id='{_id}'>" +
+					"<img src='img/{product}.jpg' class='thumbnail img-responsive' alt='{product}' title='{product}' product='{product}' category='{category}' _id='{_id}'/>" +
+					"<h4>{product}</h4>" +
 				"</a>" +
 			"</div>"+
 			"{.end}" +
@@ -39,7 +29,7 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 		var productDetailsHeader = 
 			"{.section products}" + 
 			"<h3 class='productDetailsHeader'>{product}" +
-			"<button class='btn pull-right btn-small' data-dismiss='modal' aria-hidden='true'>Close</button>" +
+			"<button class='btn pull-right btn-small' data-dismiss='modal' aria-hidden='true' id='closeModal'>Close</button>" +
 			"</h3>" +
 			"{.end}";
 
@@ -57,45 +47,6 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 			"</fieldset>"+
 			"</form>" +
 			"{.end}";
-		
-		var tableContentXS = 
-			"<table id='dailyResultsTableXS' class='table table-striped'>" +
-				"<thead>" +
-					"<tr>" +
-						"<th>Product</th>" +
-						"<th class='tnr'>Kcal</th>" +
-						"<th></th>" +
-					"</tr>" +
-					"{.section actuals}" +
-					"<tr>" +
-						"<th>{type}</th>" +
-						"<th class='tnr'>{totalKcal}</th>" +							
-						"<th></th>" +
-					"</tr>" +
-					"{.end}" +
-					"</thead>" +
-			
-				"<tbody>" +
-					"{.repeated section result}" +
-					"<tr>" +
-						"<td>{product}</td>" +
-						"<td class='tnr'>{totalKcal}</td>" +
-						"<td class='tnr'>" +
-							"<img src='img/delete.jpg' title='Verwijderen' alt='Verwijderen' height=20 width=20 data-val={_id} class='removeFromDiary'> " + 
-						"</td>" +
-					"</tr>" +
-					"{.end}" +
-				"</tbody>" +
-				"<tfoot>" +					
-					"{.repeated section totals}" +
-					"<tr>" +
-						"<th>{type}</th>" +
-						"<th class='tnr'>{total}</th>" +							
-						"<th></th>" +
-					"</tr>" +
-					"{.end}" +
-				"</tfoot>" +
-			"</table>";		
 
 		var tableContentNonXS = 
 			"<table id='dailyResultsTableNonXS' class='table table-striped'>" +
@@ -184,16 +135,10 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 					console.log('received some diary ', messageType);
 					switch(messageType) {
 						case "SUCCESS" : {
-							$('#dailyResultsTableXS').remove();
 							$('#dailyResultsTableNonXS').remove();
-							var _t3 = jsontemplate.Template(tableContentXS);
 							var _t4 = jsontemplate.Template(tableContentNonXS);
-							var fragment3 = _t3.expand(response);
 							var fragment4 = _t4.expand(response);
-							console.log(fragment3);
-							console.log(fragment4);
-							$('#tableXS').append(fragment3);
-							$('#tableNonXS').append(fragment4);
+							$('#tableResults').append(fragment4);
 							break;
 						}
 						case "ERROR" : {
@@ -214,14 +159,26 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 		};
 		
 		function addSearchResultHandlers() {
-			$('.searchResult img').bind('click', function(event) {
+			$('.searchResult').bind('click', function(event) {
 				var _id = $(this).attr('_id');
 				console.log('id: ', _id);
 				getDetails(_id);
 			});
 		};
 		
-		function addDToDiaryHandlers() {
+		function modalHandlers() {
+/*		
+			$('#closeModal').bind('click', function(event) {
+				$('.productDetailsHeader').remove();
+				$('.productDetailsContent').remove();
+				$('#diaryDetails').attr('aria-hidden', 'true');
+				$('#diaryDetails').removeClass('in');
+				$('#diaryDetails').css('display', 'none');
+				$('body').removeClass('modal-open');
+				$('.modal-backdrop').remove();
+				console.log('fdgfdgfdgfd');
+			});
+*/			
 			$('#addToDiary').bind('click', function(event) {
 				var _id = $('#detailsId').attr('detailsId');
 				var unit = $("#unitsDiary").val();
@@ -241,16 +198,12 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 								var messageType = response.messages[0].messageType;
 								switch(messageType) {
 									case "SUCCESS" : {
-										$('#dailyResultsTableXS').remove();
 										$('#dailyResultsTableNonXS').remove();
 										$("#resultsNonXS").remove();
-										$("#resultsXS").remove();										
-										var _t3 = jsontemplate.Template(tableContentXS);
 										var _t4 = jsontemplate.Template(tableContentNonXS);
-										var fragment3 = _t3.expand(response);
 										var fragment4 = _t4.expand(response);
-										$('#tableXS').append(fragment3);
-										$('#tableNonXS').append(fragment4);
+										$('#tableResults').append(fragment4);
+										$('body').append('<div></div>');
 										break;
 									}
 									case "ERROR" : {
@@ -288,7 +241,7 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 						var fragment2 = _t2.expand(response);
 						$('.modal-header').append(fragment1);
 						$('.modal-body').append(fragment2);
-						addDToDiaryHandlers();
+						modalHandlers();
 					}
 				});
 			}
@@ -301,13 +254,9 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 			serviceAgent.doGet("GET", url, "json", "application/json; charset=utf-8", function(response) {
 				if (response && response.products) {
 					$("#resultsNonXS").remove();
-					$("#resultsXS").remove();
-					var _t1 = jsontemplate.Template(searchResultScreenXS);
 					var _t2 = jsontemplate.Template(searchResultScreenNonXS);
-					var fragment1 = _t1.expand(response);
 					var fragment2 = _t2.expand(response);
-					$("#searchResultXS").append(fragment1);
-					$("#searchResultNonXS").append(fragment2);
+					$("#searchResult").append(fragment2);
 					addSearchResultHandlers();
 				}
 			});
