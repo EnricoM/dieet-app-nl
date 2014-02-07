@@ -16,7 +16,7 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 			"<div class='row'>"+
 			"<div id='resultsNonXS'>" +			
 			"{.repeated section @}" + 
-			"<div class='col sm-4 col-md-3 col-lg-2 column'>"+
+			"<div class='col-xs-6 col-sm-4 col-md-3 col-lg-2 column'>"+
         		"<a data-toggle='modal' href='#diaryDetails' class='searchResult' _id='{_id}'>" +
 					"<img src='img/{product}.jpg' class='thumbnail img-responsive' alt='{product}' title='{product}' product='{product}' category='{category}' _id='{_id}'/>" +
 					"<h4>{product}</h4>" +

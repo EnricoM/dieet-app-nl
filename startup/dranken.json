@@ -6,7 +6,7 @@
 			{"merk" : "Koffie verkeerd", "Kcal": 29.4, "Eiwit": 2.3, "Koolh": 2.8, "Vet": 1}
 		],
 		"Eenheden" : [			
-			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"kop", "hoeveelheid":120},
 			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
