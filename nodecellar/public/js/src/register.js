@@ -13,12 +13,14 @@ require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquer
 		$(".alert").addClass('hide');
 		$('#contactForm').validate({
 			rules: {
+/*			
 				firstName: {
 					required: true
 				},
 				lastName: {
 					required: true
 				},
+*/				
 				email: {
 					required: true,
 					email: true
@@ -42,8 +44,8 @@ require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquer
 			},
 			submitHandler: function(form) {
 				var registration = {
-					"firstName" : $("#firstName").val(),
-					"lastName" : $("#lastName").val(),
+					//"firstName" : $("#firstName").val(),
+					//"lastName" : $("#lastName").val(),
 					"email" : $("#email").val(),
 					"pwd" : $("#pwd1").val()
 				};

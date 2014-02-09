@@ -1,6 +1,6 @@
 var sessionDAO = require('./sessionDAO');
 
-function logoffUser(session, db, result) {
+function deleteSession(session, db, result) {
 	if (session.sessionId) {
 		sessionDAO.deleteSession(session.sessionId, db, function(resultCode, doc) {
 			if (resultCode === "SUCCESS") {
@@ -14,7 +14,7 @@ function logoffUser(session, db, result) {
 	}
 };
 	
-function verifyLoggedOn(session, db, next) {
+function readSession(session, db, next) {
 	if (session.sessionId) {
 		sessionDAO.readSession(session.sessionId, db, function(resultCode, doc) {
 			if (resultCode === "SUCCESS") {
@@ -38,7 +38,7 @@ function verifyLoggedOn(session, db, next) {
 	}
 };
 	
-function logonUser(session, db, result) {
+function readUser(session, db, result) {
 	var errors = new Errors();
 	if (logonUserValidation(session, errors)) {
 		sessionDAO.readUser(session, db, function(resultCode, doc) {
@@ -87,7 +87,7 @@ function logonUser(session, db, result) {
 };
 
 	
-function registerUser(registration, db, result) {
+function createUser(registration, db, result) {
 	var errors = new Errors();
 	if (registerUserValidation(registration, errors)) {
 		sessionDAO.createUser(registration, db, function(resultCode, doc) {
@@ -130,6 +130,7 @@ function registerUserValidation(registration, errors) {
 	var EMAIL_RE = /^[\S]+@[\S]+\.[\S]+$/;
 	var noErrors = true;
 
+/*
 	if (registration.firstName) {
 		if (registration.firstName === "") {		
 			errors.firstName_error = true;
@@ -149,7 +150,7 @@ function registerUserValidation(registration, errors) {
 		errors['lastName_error'] = true;
 		noErrors = false;		
 	}
-
+*/
 	if (registration.pwd) {		
 		if (registration.pwd !== "") {	
 			if (!PASS_RE.test(registration.password)) {
@@ -363,7 +364,7 @@ function Errors() {
 	this.invalid_password_error = false;
 };
 
-exports.registerUser = registerUser;
-exports.logoffUser = logoffUser;
-exports.verifyLoggedOn = verifyLoggedOn;
-exports.logonUser = logonUser;
+exports.createUser = createUser;
+exports.deleteSession = deleteSession;
+exports.readSession = readSession;
+exports.readUser = readUser;

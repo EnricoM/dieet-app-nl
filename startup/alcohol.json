@@ -22,7 +22,7 @@
 			{"omschrijving":"vaasje", "hoeveelheid":250},
 			{"omschrijving":"flesje", "hoeveelheid":300},
 			{"omschrijving":"blikje", "hoeveelheid":333},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -32,7 +32,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}	
 	
@@ -42,7 +42,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}					
+			{"omschrijving":"ml", "hoeveelheid":1}					
 		]
 	}
 	
@@ -52,7 +52,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -62,7 +62,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -72,7 +72,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -82,7 +82,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -92,7 +92,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -102,7 +102,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -112,7 +112,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":10},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -122,6 +122,6 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":10},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}

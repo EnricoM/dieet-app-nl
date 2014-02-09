@@ -97,7 +97,14 @@ require(["require_json_template", "bootstrap", "../src/serviceAgent", "jquery", 
 				"</tfoot>" +
 			"</table>";		
 
-			
+		serviceAgent.doGet("GET", "/settings", "json", "application/json; charset=utf-8", function(response) {
+			if (response && response.messages && response.messages[0]) {
+				if (response.messages[0].messageType === "SUCCESS") {
+					$("#userName").text(response.firstName);
+				}
+			}
+		});
+		
 		$('#diaryDatePicker').val(new Date().toJSON().substring(0,10));
 		var diaryDate = $('#diaryDatePicker').val();
 		getDiary(diaryDate);

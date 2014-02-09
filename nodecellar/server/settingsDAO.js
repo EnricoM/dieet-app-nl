@@ -5,6 +5,8 @@ function createSettings(userSettings, db, queryResult) {
 	var settings = db.collection("settings");
 	var query = {
 		'_id': userSettings.email, 
+		'firstName' : userSettings.firstName,
+		'lastName' : userSettings.lastName,
 		'dateOfBirth': userSettings.dateOfBirth, 
 		'sexe' : userSettings.sexe, 
 		'length' : userSettings.length, 
@@ -49,6 +51,8 @@ function updateSettings(userSettings, db, queryResult) {
 	var settings = db.collection("settings");
 	var query = { '_id': userSettings.email };
 	var operation = {
+		'firstName' : userSettings.firstName,
+		'lastName' : userSettings.lastName,	
 		'dateOfBirth': userSettings.dateOfBirth, 
 		'sexe' : userSettings.sexe, 
 		'length' : userSettings.length, 
@@ -62,10 +66,6 @@ function updateSettings(userSettings, db, queryResult) {
 	};
 		
 	settings.update(query, operation, function(err, setting) {	
-		
-		console.log('in update callbabk');
-		console.log(err);
-		console.log(setting);
 		if(err) {
 			queryResult("DB_ERROR", null);
 		} else {

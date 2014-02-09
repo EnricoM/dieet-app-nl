@@ -6,7 +6,7 @@ function SessionRoute(db) {
 		var session = {
 			"sessionId" : req.cookies.session
 		};
-		sessionHandler.logoffUser(session, db, function(resultMessage) {
+		sessionHandler.deleteSession(session, db, function(resultMessage) {
 			next(resultMessage);
 		});
 	};
@@ -15,7 +15,7 @@ function SessionRoute(db) {
 		var session = {
 			"sessionId" : req.cookies.session
 		};
-		sessionHandler.verifyLoggedOn(session, db, function(result) {
+		sessionHandler.readSession(session, db, function(result) {
 			next(result);
 		});
 	};
@@ -25,7 +25,7 @@ function SessionRoute(db) {
 			"email" : req.body.email,
 			"pwd" : req.body.pwd
 		};
-		sessionHandler.logonUser(session, db, function(resultMessage) {
+		sessionHandler.readUser(session, db, function(resultMessage) {
 			if(resultMessage.messages[0].messageType === "SUCCESS") {
 				res.cookie('session', resultMessage.sessionId, { maxAge: 7200000 });
 			}
@@ -36,12 +36,12 @@ function SessionRoute(db) {
 	
 	this.registerUser = function (req, res, next) {
 		var registration = {
-			"firstName" : req.body.firstName,
-			"lastName" : req.body.lastName,
+			//"firstName" : req.body.firstName,
+			//"lastName" : req.body.lastName,
 			"email" : req.body.email,
 			"pwd" : req.body.pwd
 		};
-		sessionHandler.registerUser(registration, db, function(resultMessage) {
+		sessionHandler.createUser(registration, db, function(resultMessage) {
 			if(resultMessage.messages[0].messageType === "SUCCESS") {
 				res.cookie('session', resultMessage.sessionId, { maxAge: 7200000 });
 			}

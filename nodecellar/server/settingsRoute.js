@@ -15,6 +15,8 @@ function SettingsRoute(db) {
 	
 	this.storeSettings = function (req, res, next) {
 		var settings = {
+			"firstName" : req.body.firstName,
+			"lastName" : req.body.lastName,			
 			"email" : req.param.email,
 			"dateOfBirth" : req.body.dateOfBirth,
 			"sexe" : req.body.sexe,
@@ -31,6 +33,8 @@ function SettingsRoute(db) {
 	this.updateSettings = function (req, res, next) {
 		var settings = {
 			"email" : req.param.email,
+			"firstName" : req.body.firstName,
+			"lastName" : req.body.lastName,						
 			"dateOfBirth" : req.body.dateOfBirth,
 			"sexe" : req.body.sexe,
 			"length" : req.body.length,

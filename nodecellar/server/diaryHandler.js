@@ -22,20 +22,16 @@ function readDiary(diary, db, next) {
 			if (returnMessage && returnMessage.messages && returnMessage.messages[0] && returnMessage.messages[0].messageType === "SUCCESS") {
 				diaryDAO.readDiary(diary, db, function(resultCode, diaryDocument) {
 					if (resultCode === "SUCCESS") {
-						console.log(resultCode);
 						var actuals = {};
 						var totals = [];
 						totals.push ( { "type" : "BMR", "total" : returnMessage.BMR} );
 						totals.push ( { "type" : "TDDE", "total" : returnMessage.TDEE} );
 						totals.push ( { "type" : "DOEL", "total" : returnMessage.targetKcal} );	
-						console.log(diaryDocument);
 						if (diaryDocument && diaryDocument.length) {
 							var j = diaryDocument.length;
 							var totalKcal = 0, totalProtein =0, totalCarbon = 0, totalFat = 0; 
 							for(var i=0; i<j; i++) {
-								console.log("length", j);
 								var test = diaryDocument[i];
-								console.log("item", test);
 								totalKcal = totalKcal + parseInt(test.totalKcal);
 								totalProtein = totalProtein + parseFloat(diaryDocument[i].totalEiwit);
 								totalCarbon = totalCarbon + parseFloat(diaryDocument[i].totalKoolh);
@@ -43,7 +39,6 @@ function readDiary(diary, db, next) {
 								//actuals = { "type" : "TOTAL",  "totalKcal" : totalKcal, "totalProtein" : totalProtein.toFixed(2), "totalCarbon" : totalCarbon.toFixed(2), "totalFat" : totalFat.toFixed(2) };
 							}
 							actuals = { "type" : "TOTAL",  "totalKcal" : totalKcal, "totalProtein" : totalProtein.toFixed(2), "totalCarbon" : totalCarbon.toFixed(2), "totalFat" : totalFat.toFixed(2) };						
-							console.log(actuals);
 						} else {
 							actuals = { "type" : "TOTAL",  "totalKcal" : 0, "totalProtein" : 0, "totalCarbon" : 0, "totalFat" : 0 };						
 						}
@@ -82,7 +77,6 @@ function createDiary(diary, db, next) {
 		var product = {};
 		nutrientsHandler.readProducts(inputProduct, db, function(result) {
 			if (result && result.messages && result.messages[0] && result.messages[0].messageType === "SUCCESS") {
-				console.log(result.messages[0].messageType);
 				product.email = diary.email
 				product.diaryDate = diary.diaryDate;
 				product.category = result.products.category;

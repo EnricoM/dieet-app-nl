@@ -66,8 +66,12 @@ function updateSettings(settings, db, next) {
 	this.readSettings(settings, db, function(result) {
 		if (result.messages[0].messageType === "SUCCESS") {
 			storedSettings = result;
-			console.log("storedSettings");
-			console.log(storedSettings);
+			if (!settings.firstName) {
+				settings.firstName = storedSettings.firstName;
+			}
+			if (!settings.lastName) {
+				settings.lastName = storedSettings.lastName;
+			}			
 			if (!settings.dateOfBirth) {
 				settings.dateOfBirth = storedSettings.dateOfBirth;
 			}
@@ -101,8 +105,6 @@ function updateSettings(settings, db, next) {
 			var reduction = (settings.TDEE / 100) * settings.reduceTDEE;
 			settings.targetKcal = parseInt(settings.TDEE - reduction);
 		
-			console.log(settings);
-	
 			if (settingsValidation(settings, errors)) {
 				settingsDAO.updateSettings(settings, db, function(resultCode, userSettings) {
 					if (resultCode) {

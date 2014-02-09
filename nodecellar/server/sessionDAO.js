@@ -5,7 +5,8 @@ function createUser(registration, db, queryResult) {
 	var users = db.collection("users");
 	var salt = bcrypt.genSaltSync();
 	var password_hash = bcrypt.hashSync(registration.pwd, salt);
-	var query = {'_id': registration.email, 'password': password_hash, 'firstName' : registration.firstName, 'lastName' : registration.lastName, 'status' : "ACTIVE", "invalidLogons" : 0};
+	//var query = {'_id': registration.email, 'password': password_hash, 'firstName' : registration.firstName, 'lastName' : registration.lastName, 'status' : "ACTIVE", "invalidLogons" : 0};
+	var query = {'_id': registration.email, 'password': password_hash, 'status' : "ACTIVE", "invalidLogons" : 0};	
 
 	users.insert(query, function(err, document) {
 		if(err) {
@@ -25,7 +26,6 @@ function createUser(registration, db, queryResult) {
 function readUser(session, db, queryResult) {
 	var users = db.collection("users");
 	var query = {'_id': session.email};
-	console.log("readUser", query);
 	users.findOne(query, function(err, document) {
 		if(err) {
 			queryResult("DB_ERROR", null);

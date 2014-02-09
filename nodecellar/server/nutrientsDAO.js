@@ -17,7 +17,6 @@ function readCategories(db, queryResult) {
 
 function readProducts(product, db, queryResult) {
 	var products = db.collection("products");
-	console.log("readProducts", product);
 	if (product.category == null || product.category == "" || product.category == undefined) {
 		useCategory = "n";
 	} else {
@@ -69,18 +68,14 @@ function readProducts(product, db, queryResult) {
 			break;
 	}
 
-	console.log("readProducts", query);
 	if (doQuery) {
 		if (str === "nny") {
 			products.findOne(query, function(err, document) {
 				if(err) {
-					console.log(err);
 					queryResult("DB_ERROR", null);
 				} else if (document) {
-					console.log(document);
 					queryResult("SUCCESS", document);
 				} else {
-					console.log('not found');
 					queryResult("NOT_FOUND", null);
 				};
 			});
@@ -89,7 +84,6 @@ function readProducts(product, db, queryResult) {
 				if(err) {
 					queryResult("DB_ERROR", null);
 				} else if (document) {
-					console.log(document);
 					queryResult("SUCCESS", document);
 				} else {
 					queryResult("NOT_FOUND", null);

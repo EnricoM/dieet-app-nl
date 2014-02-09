@@ -72,7 +72,7 @@
 			{"omschrijving":"vaasje", "hoeveelheid":250},
 			{"omschrijving":"flesje", "hoeveelheid":300},
 			{"omschrijving":"blikje", "hoeveelheid":333},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -82,7 +82,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}	
 	
@@ -92,7 +92,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}					
+			{"omschrijving":"ml", "hoeveelheid":1}					
 		]
 	}
 	
@@ -102,7 +102,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -112,7 +112,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -122,7 +122,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -132,7 +132,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -142,7 +142,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}	
 	
@@ -152,7 +152,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":25},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -162,7 +162,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":10},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
 	
@@ -172,17 +172,17 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"glas", "hoeveelheid":10},
-			{"omschrijving":"ml", "hoeveelheid":-1}
+			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}
-
+	
 	{"category" : "Brood", "product":"bolus","Defaulthoev":1,"Eenheid":"stuk", 
 		"Merken" : [
 			{"merk" : "Algemeen", "Kcal": 315,"Eiwit":  5, "Koolh": 36, "Vet": 16}
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":1},
-			{"omschrijving":"gram)", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}	
 	
@@ -192,37 +192,37 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"beschuitje", "hoeveelheid":10},
-			{"omschrijving":"gram)", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"volkoren","Defaulthoev":100,"Eenheid":"gram",
+	{"category" : "Brood", "product":"volkoren brood","Defaulthoev":100,"Eenheid":"gram",
 		"Merken" : [
 			{"merk" : "Algemeen", "Kcal": 208,"Eiwit":  5.7,"Koolh": 40.0,"Vet": 2.8}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"wit","Defaulthoev":100,"Eenheid":"gram", 
+	{"category" : "Brood", "product":"wit brood","Defaulthoev":100,"Eenheid":"gram", 
 		"Merken" : [						
 			{"merk" : "Algemeen", "Kcal": 226,"Eiwit":  6.5,"Koolh": 50.0,"Vet": 0.0}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"bruin","Defaulthoev":100,"Eenheid":"gram", 
+	{"category" : "Brood", "product":"bruin brood","Defaulthoev":100,"Eenheid":"gram", 
 		"Merken" : [						
 			{"merk" : "Algemeen", "Kcal": 250,"Eiwit":  9.5,"Koolh": 45.1,"Vet": 3.5}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -232,7 +232,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":7},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -242,7 +242,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":40},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -252,7 +252,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																
+			{"omschrijving":"gram", "hoeveelheid":1}																
 		]
 	}
 	
@@ -262,7 +262,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"plak", "hoeveelheid":30},
-			{"omschrijving":"gram", "hoeveelheid":-1}																
+			{"omschrijving":"gram", "hoeveelheid":1}																
 		]
 	}	
 	
@@ -272,7 +272,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":30},
-			{"omschrijving":"gram", "hoeveelheid":-1}																				
+			{"omschrijving":"gram", "hoeveelheid":1}																				
 		]
 	}	
 	
@@ -282,7 +282,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																								
+			{"omschrijving":"gram", "hoeveelheid":1}																								
 		]
 	}	
 	
@@ -292,7 +292,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																										
+			{"omschrijving":"gram", "hoeveelheid":1}																										
 		]
 	}
 	
@@ -302,7 +302,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":100},
-			{"omschrijving":"gram", "hoeveelheid":-1}																														
+			{"omschrijving":"gram", "hoeveelheid":1}																														
 		]
 	}	
 	
@@ -311,7 +311,7 @@
 			{"merk" : "Algemeen", "Kcal": 259,"Eiwit":  8.1,"Koolh": 52.0,"Vet": 2.1}
 		],
 		"Eenheden" : [
-			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+			{"omschrijving":"gram", "hoeveelheid":1}																																
 		]
 	}	
 	
@@ -320,10 +320,10 @@
 			{"merk" : "Algemeen", "Kcal": 294,"Eiwit":  6.1,"Koolh": 64.0,"Vet": 1.5}
 		],
 		"Eenheden" : [
-			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+			{"omschrijving":"gram", "hoeveelheid":1}																																		
 		]
 	}
-
+	
 	{"category" : "Broodbeleg", "product":"kokosbrood","Defaulthoev":100,"Eenheid":"gram", 
 		"Merken" : [
 			{"merk" : "Algemeen", "Kcal": 422,"Eiwit":  4.0,"Koolh": 34.0,"Vet":30.0}
@@ -474,7 +474,7 @@
 		]
 	}
 	
-		{"category" : "Dranken", "product":"koffie","Defaulthoev":100, "Eenheid": "ml",
+	{"category" : "Dranken", "product":"koffie","Defaulthoev":100, "Eenheid": "ml",
 		"Merken" : [ 
 			{"merk" : "Koffie", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
 			{"merk" : "Espresso", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
@@ -586,6 +586,7 @@
 			{"omschrijving":"ml", "hoeveelheid":1}
 		]
 	}				
+
 	{"category" : "Fruit", "product":"aalbessen", "Defaulthoev":100, "Eenheid":"gram", 
 		"Merken" : [
 			{"merk" : "Algemeen","Kcal":24,"Eiwit":1.0,"Koolh":5.0,"Vet":0.0}

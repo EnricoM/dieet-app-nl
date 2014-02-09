@@ -4,7 +4,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":1},
-			{"omschrijving":"gram)", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}	
 	
@@ -14,37 +14,37 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"beschuitje", "hoeveelheid":10},
-			{"omschrijving":"gram)", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"volkoren","Defaulthoev":100,"Eenheid":"gram",
+	{"category" : "Brood", "product":"volkoren brood","Defaulthoev":100,"Eenheid":"gram",
 		"Merken" : [
 			{"merk" : "Algemeen", "Kcal": 208,"Eiwit":  5.7,"Koolh": 40.0,"Vet": 2.8}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"wit","Defaulthoev":100,"Eenheid":"gram", 
+	{"category" : "Brood", "product":"wit brood","Defaulthoev":100,"Eenheid":"gram", 
 		"Merken" : [						
 			{"merk" : "Algemeen", "Kcal": 226,"Eiwit":  6.5,"Koolh": 50.0,"Vet": 0.0}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
-	{"category" : "Brood", "product":"bruin","Defaulthoev":100,"Eenheid":"gram", 
+	{"category" : "Brood", "product":"bruin brood","Defaulthoev":100,"Eenheid":"gram", 
 		"Merken" : [						
 			{"merk" : "Algemeen", "Kcal": 250,"Eiwit":  9.5,"Koolh": 45.1,"Vet": 3.5}
 		],
 		"Eenheden" : [
 			{"omschrijving":"boterham", "hoeveelheid":35},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -54,7 +54,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":7},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -64,7 +64,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":40},
-			{"omschrijving":"gram", "hoeveelheid":-1}
+			{"omschrijving":"gram", "hoeveelheid":1}
 		]
 	}
 	
@@ -74,7 +74,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																
+			{"omschrijving":"gram", "hoeveelheid":1}																
 		]
 	}
 	
@@ -84,7 +84,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"plak", "hoeveelheid":30},
-			{"omschrijving":"gram", "hoeveelheid":-1}																
+			{"omschrijving":"gram", "hoeveelheid":1}																
 		]
 	}	
 	
@@ -94,7 +94,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":30},
-			{"omschrijving":"gram", "hoeveelheid":-1}																				
+			{"omschrijving":"gram", "hoeveelheid":1}																				
 		]
 	}	
 	
@@ -104,7 +104,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																								
+			{"omschrijving":"gram", "hoeveelheid":1}																								
 		]
 	}	
 	
@@ -114,7 +114,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":50},
-			{"omschrijving":"gram", "hoeveelheid":-1}																										
+			{"omschrijving":"gram", "hoeveelheid":1}																										
 		]
 	}
 	
@@ -124,7 +124,7 @@
 		],
 		"Eenheden" : [
 			{"omschrijving":"stuk", "hoeveelheid":100},
-			{"omschrijving":"gram", "hoeveelheid":-1}																														
+			{"omschrijving":"gram", "hoeveelheid":1}																														
 		]
 	}	
 	
@@ -133,7 +133,7 @@
 			{"merk" : "Algemeen", "Kcal": 259,"Eiwit":  8.1,"Koolh": 52.0,"Vet": 2.1}
 		],
 		"Eenheden" : [
-			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+			{"omschrijving":"gram", "hoeveelheid":1}																																
 		]
 	}	
 	
@@ -142,6 +142,6 @@
 			{"merk" : "Algemeen", "Kcal": 294,"Eiwit":  6.1,"Koolh": 64.0,"Vet": 1.5}
 		],
 		"Eenheden" : [
-			{"omschrijving":"gram", "hoeveelheid":-1}																																		
+			{"omschrijving":"gram", "hoeveelheid":1}																																		
 		]
 	}

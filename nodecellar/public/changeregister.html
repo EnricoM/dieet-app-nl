@@ -22,7 +22,7 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">    
 			<ul class="nav navbar-nav navbar-right">
 				<li class="active"><a href="../index.html">Home</a></li>
-				<li><a href="../register.html">Registreer</a></li>
+				<li><a href="../diary.html">Dagboek</a></li>
 			</ul>
 		</div>
 	</header>	
@@ -31,18 +31,26 @@
 		<strong><label id="messageType" for="messageType">messageType</label></strong>
 		<label id="messageText" for="messageText">messageText</label>
 	</div>
-	
+
 	<div class="container container-goals">
 		<div class="row" id="productSearch">
 			<div class="col-lg-8 col-md-10 col-md-offset-1 col-lg-offset-2 column">	
-				<form role="form" id="contact-form">
+				<form role="form" id="contactForm">
 					<div class="form-group">
 						<label for="email">Email</label>
-						<input type='email' class="form-control" id='email' name='email' placeholder="Enter email"/>
+						<input type='email' class="form-control" id='email' name='email' placeholder="Enter email" readonly/>
 					</div>
 					<div class="form-group">
-						<label for="password">Password</label>
+						<label for="password">Old password</label>
+						<input type='password' class="form-control" id='pwd0' name='pwd0' placeholder="Enter password"/>
+					</div>
+					<div class="form-group">
+						<label for="password">New password</label>
 						<input type='password' class="form-control" id='pwd1' name='pwd1' placeholder="Enter password"/>
+					</div>
+					<div class="form-group">
+						<label for="password">Confirm password</label>
+						<input type='password' class="form-control" id='pwd2' name='pwd2' placeholder="Confirm password"/>
 					</div>
 					<div class="form-actions">
 						<button class="btn btn-primary">Volgende</button>
@@ -50,24 +58,8 @@
 				</form>
 			</div>
 		</div>
-	</div>
-
-<!--	
-	<div class="row">
-		<div class="col-lg-12 hidden-xs hidden-sm hidden-md" align="center">Large
-		</div>
-		
-		<div class="col-md-12 hidden-xs hidden-sm hidden-lg" align="center">Medium
-		</div>
-		
-		<div class="col-sm-12 hidden-xs hidden-md hidden-lg" align="center">Small
-		</div>
-
-		<div class="col-xs-12 hidden-sm hidden-md hidden-lg" align="center">Extra small
-		</div>
 	</div>	
--->	
-	<script data-main="js/src/logon" src="js/lib/require-jquery.js"></script>
+	<script data-main="js/src/changeregister" src="js/lib/require-jquery.js"></script>
 </body>
 
 </html>

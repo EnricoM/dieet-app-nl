@@ -8,34 +8,25 @@ requirejs.config({
 
 
 require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquery.validate.override"], function(bootstrap, serviceAgent, $) {
-	$(document).ready(function(){
-		$('#dateOfBirth').val(new Date(1970, 1, 0).toJSON().slice(0,10));
+	$(document).ready(function() {
+		serviceAgent.doGet("GET", "/settings", "json", "application/json; charset=utf-8", function(response) {
+	
+	
 		$("[rel=tooltip]").tooltip({ placement: 'right'});
 		$(".alert").addClass('hide');
-		$('#settingsForm').validate(
-		{
-			rules: {	
-				firstName: {
-					required: true
-				},
-				lastName: {
+		$('#contactForm').validate({
+			rules: {
+				pwd0: {
+					minlength: 6,
 					required: true
 				},			
-				dateOfBirth : {
-					required : true,
-					date : true
+				pwd1: {
+					minlength: 6,
+					required: true
 				},
-				length : {
-					required: true,
-					digits: true
-				},
-				weight : {
-					required: true,
-					number: true
-				},
-				desiredWeight : {
-					required: true,
-					number: true
+				pwd2: {
+					equalTo: pwd1,
+					required: true
 				}
 			},
 			highlight: function(element) {
@@ -47,17 +38,11 @@ require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquer
 				.closest('.control-group').removeClass('error').addClass('success');
 			},
 			submitHandler: function(form) {
-				var settings = {
-					"firstName" : $("#firstName").val(),
-					"lastName" : $("#lastName").val(),
-					"dateOfBirth" : $("#dateOfBirth").val(),
-					"sexe" : $("#male").is(':checked') ? "M" : "F",
-					"length" : $("#length").val(),
-					"weight" : $("#weight").val(),
-					"desiredWeight" : $("#desiredWeight").val(),
-					"exercise" : $("#exercise").val()
+				var registration = {
+					"email" : $("#email").val(),
+					"pwd" : $("#pwd1").val()
 				};
-				serviceAgent.doSubmit("POST", "/settings", "json", "application/json; charset=utf-8", JSON.stringify(settings), function(response) {
+				serviceAgent.doSubmit("POST", "/registration", "json", "application/json; charset=utf-8", JSON.stringify(registration), function(response) {
 					if(response && response.messages && response.messages[0]) {
 						var message;
 						if (response.messages) {
@@ -65,7 +50,6 @@ require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquer
 						}
 						switch(message.messageType) {
 							case "ERROR" : {
-								console.log('error found');
 								$(".alert").removeClass('hide');
 								$(".alert").removeClass("alert-success").addClass("alert-danger");
 								$("#messageText").text(message.messageText);
@@ -74,10 +58,12 @@ require(["bootstrap", "../src/serviceAgent", "jquery", "jquery.validate", "jquer
 								break;
 							}
 							case "SUCCESS" : {
-								window.location.href = "../goals.html"
+								window.location.href = "../settings.html"
 								break;
 							}
 						};
+					} else {
+						
 					}
 				});
 			}

@@ -36,9 +36,7 @@ function createDiary(diary, db, next) {
 function deleteDiary(diary, db, next) {
 	var diaries = db.collection("diaries");
 	var query = {'_id': new ObjectID(diary._id)};
-	console.log(query);
 	diaries.remove(query, function(err, document) {
-		console.log(err, document);
 		if(err) {
 			next("DB_ERROR", null);
 		} else if (document) {
