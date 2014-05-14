@@ -15,5 +15,9 @@ mongoimport -d dieet -c products --file products.json --jsonArray
 git clone git://github.com/EnricoM/dieet-app-nl
 sudo rm -rf dieet-app-nl
 
+mongod --dbpath /databases
 use admin
 db.shutdownServer({timeoutSecs:60})
+
+
+new window: ALT + Fn
