@@ -1,0 +1,127 @@
+	{"category" : "Alcohol", "product":"bier","Defaulthoev":100, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 42, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Affligen Blond", "Kcal": 180, "Eiwit":  0, "Koolh":  18, "Vet": 0},
+			{"merk" : "Amstel light", "Kcal": 25, "Eiwit":  0, "Koolh":  1.5, "Vet": 0.5},
+			{"merk" : "Amstel 1870", "Kcal": 45, "Eiwit":  0.5, "Koolh":  3.5, "Vet": 0},
+			{"merk" : "Amstel herfstbock", "Kcal": 60, "Eiwit":  0.5, "Koolh":  5.0, "Vet": 0},
+			{"merk" : "Amstel", "Kcal": 42, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Corona", "Kcal": 400000, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Grafenwalder", "Kcal": 48, "Eiwit": 0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Grolsch", "Kcal": 45, "Eiwit":  0.5, "Koolh":  2.5, "Vet": 0},
+			{"merk" : "Guinness", "Kcal": 30, "Eiwit":  0.3, "Koolh":  1.4, "Vet": 0},						
+			{"merk" : "Heineken", "Kcal": 40, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Hertog Jan", "Kcal": 51, "Eiwit":  0.4, "Koolh":  3.4, "Vet": 0},
+			{"merk" : "Palm", "Kcal": 47, "Eiwit":  0.3, "Koolh":  4.3, "Vet": 0},
+			{"merk" : "Veltins", "Kcal": 34, "Eiwit": 0, "Koolh":  0, "Vet": 0},
+			{"merk" : "Westmalle dubbel", "Kcal": -1, "Eiwit":  -1, "Koolh":  -1, "Vet": -1},
+			{"merk" : "Westmalle tripel", "Kcal": -1, "Eiwit":  -1, "Koolh":  -1, "Vet": -1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"fluitje", "hoeveelheid":200},
+			{"omschrijving":"vaasje", "hoeveelheid":250},
+			{"omschrijving":"flesje", "hoeveelheid":300},
+			{"omschrijving":"blikje", "hoeveelheid":333},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"gin","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"irishcoffee","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 108,"Eiwit":  0.6,"Koolh":  5.2,"Vet": 9.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}					
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"jagermeister","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 68, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"jenever","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 76, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"rum","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 229, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"wijn(rood)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 80, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"wijn(rose)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 73, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"wijn(wit)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"whiskey","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":10},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"wodka","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":10},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}

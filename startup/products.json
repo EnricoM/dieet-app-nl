@@ -1,0 +1,1740 @@
+	{"category" : "Aardappel", "product":"aardappel(gekookt)", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":  85, "Eiwit":  2.6, "Koolh": 18.6, "Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"kleine aardappel (50 gram)", "hoeveelheid": 50},
+			{"omschrijving":"normale aardappel (75 gram)", "hoeveelheid": 75},
+			{"omschrijving":"grote aardappel (100 gram)", "hoeveelheid": 100},
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Aardappel", "product":"aardappel(gebakken)", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":  122, "Eiwit":  2.0, "Koolh": 16.0, "Vet": 5.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Aardappel", "product":"aardappelkroket", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":  356, "Eiwit":  34.0, "Koolh": 28.2, "Vet": 12.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"kroket (30 gram)", "hoeveelheid": 30},
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Aardappel", "product":"aardappelpuree","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 100,"Eiwit":  2.8,"Koolh": 11.0,"Vet": 5.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Aardappel", "product":"friet", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 456, "Eiwit": 40.0, "Koolh": 38.0, "Vet":16.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"bakje (275 gram)", "hoeveelheid": 275},
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"bier","Defaulthoev":100, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 42, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Affligen Blond", "Kcal": 180, "Eiwit":  0, "Koolh":  18, "Vet": 0},
+			{"merk" : "Amstel light", "Kcal": 25, "Eiwit":  0, "Koolh":  1.5, "Vet": 0.5},
+			{"merk" : "Amstel 1870", "Kcal": 45, "Eiwit":  0.5, "Koolh":  3.5, "Vet": 0},
+			{"merk" : "Amstel herfstbock", "Kcal": 60, "Eiwit":  0.5, "Koolh":  5.0, "Vet": 0},
+			{"merk" : "Amstel", "Kcal": 42, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Corona", "Kcal": 400000, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Grafenwalder", "Kcal": 48, "Eiwit": 0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Grolsch", "Kcal": 45, "Eiwit":  0.5, "Koolh":  2.5, "Vet": 0},
+			{"merk" : "Guinness", "Kcal": 30, "Eiwit":  0.3, "Koolh":  1.4, "Vet": 0},						
+			{"merk" : "Heineken", "Kcal": 40, "Eiwit":  0.5, "Koolh":  3.0, "Vet": 0},
+			{"merk" : "Hertog Jan", "Kcal": 51, "Eiwit":  0.4, "Koolh":  3.4, "Vet": 0},
+			{"merk" : "Palm", "Kcal": 47, "Eiwit":  0.3, "Koolh":  4.3, "Vet": 0},
+			{"merk" : "Veltins", "Kcal": 34, "Eiwit": 0, "Koolh":  0, "Vet": 0},
+			{"merk" : "Westmalle dubbel", "Kcal": -1, "Eiwit":  -1, "Koolh":  -1, "Vet": -1},
+			{"merk" : "Westmalle tripel", "Kcal": -1, "Eiwit":  -1, "Koolh":  -1, "Vet": -1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"fluitje", "hoeveelheid":200},
+			{"omschrijving":"vaasje", "hoeveelheid":250},
+			{"omschrijving":"flesje", "hoeveelheid":300},
+			{"omschrijving":"blikje", "hoeveelheid":333},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"gin","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"irishcoffee","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 108,"Eiwit":  0.6,"Koolh":  5.2,"Vet": 9.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}					
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"jagermeister","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 68, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"jenever","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 76, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"rum","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 229, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"wijn(rood)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 80, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"wijn(rose)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 73, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Alcohol", "product":"wijn(wit)","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":25},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"whiskey","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":10},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Alcohol", "product":"wodka","Defaulthoev":25, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 65, "Eiwit":  0, "Koolh":  0, "Vet": 0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":10},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"bolus","Defaulthoev":1,"Eenheid":"stuk", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 315,"Eiwit":  5, "Koolh": 36, "Vet": 16}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Brood", "product":"beschuit","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 379,"Eiwit":  9.9,"Koolh": 75.5,"Vet": 4.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"beschuitje", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"volkoren brood","Defaulthoev":100,"Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 208,"Eiwit":  5.7,"Koolh": 40.0,"Vet": 2.8}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"wit brood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 226,"Eiwit":  6.5,"Koolh": 50.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"bruin brood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 250,"Eiwit":  9.5,"Koolh": 45.1,"Vet": 3.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"cracker","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [						
+			{"merk" : "Algemeen", "Kcal": 477,"Eiwit": 11.0,"Koolh": 97.0,"Vet": 5.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":7},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"croissant","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 130,"Eiwit":  4.0,"Koolh": 24.0,"Vet": 2.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Brood", "product":"krentenbol","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit":  8.0,"Koolh": 51.7,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}																
+		]
+	}
+	
+	{"category" : "Brood", "product":"krentenbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 255,"Eiwit":  7.0,"Koolh": 50.0,"Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":1}																
+		]
+	}	
+	
+	{"category" : "Brood", "product":"pistolet","Defaulthoev":30,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 104,"Eiwit":  3.0,"Koolh": 23.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":1}																				
+		]
+	}	
+	
+	{"category" : "Brood", "product":"pitabroodje","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 257,"Eiwit":  8.6,"Koolh": 53.0,"Vet": 1.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}																								
+		]
+	}	
+	
+	{"category" : "Brood", "product":"roggebrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 189,"Eiwit":  5.0,"Koolh": 40.0,"Vet": 1.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}																										
+		]
+	}
+	
+	{"category" : "Brood", "product":"saucijzenbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 308,"Eiwit": 22.2,"Koolh":  0.9,"Vet":24.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}																														
+		]
+	}	
+	
+	{"category" : "Brood", "product":"stokbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 259,"Eiwit":  8.1,"Koolh": 52.0,"Vet": 2.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}																																
+		]
+	}	
+	
+	{"category" : "Brood", "product":"suikerbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [				
+			{"merk" : "Algemeen", "Kcal": 294,"Eiwit":  6.1,"Koolh": 64.0,"Vet": 1.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}																																		
+		]
+	}
+	
+	{"category" : "Broodbeleg", "product":"kokosbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 422,"Eiwit":  4.0,"Koolh": 34.0,"Vet":30.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}												
+		]
+	}
+	
+		{"category" : "Desserts", "product":"advocaat vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Zuivelhoeve","Kcal":107,"Eiwit":  3.3,"Koolh": 15.0,"Vet": 3.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"bakje", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	
+	{"category" : "Desserts", "product":"blanke vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Melkunie","Kcal": 92, "Eiwit": 2.0, "Koolh": 15.0, "Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Desserts", "product":"caramel vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Melkunie","Kcal": 92, "Eiwit": 2.0, "Koolh": 15.0, "Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Desserts", "product":"chipolata pudding","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [ 
+			{"merk" : "Mona","Kcal": 225,"Eiwit":  4.3,"Koolh": 24.1,"Vet":12.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"chocolade mousse","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 252,"Eiwit":  2.5,"Koolh": 26.3,"Vet":15.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Desserts", "product":"chocolade pudding","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 125,"Eiwit":  4.0,"Koolh": 20.0,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Desserts", "product":"chocolade vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  86,"Eiwit":  3.3,"Koolh": 12.5,"Vet": 2.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+		
+	{"category" : "Desserts", "product":"griesmeel pap","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 97, "Eiwit": 2.5, "Koolh": 15.0, "Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"portie", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Desserts", "product":"havermout pap","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  74,"Eiwit":  3.9,"Koolh":  7.5,"Vet": 3.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Desserts", "product":"rijst pap","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 137, "Eiwit": 3.2, "Koolh": 23.2, "Vet": 3.5},
+			{"merk" : "Danone" ,"Kcal": 137, "Eiwit": 3.2, "Koolh": 23.2, "Vet": 3.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}		
+	
+	{"category" : "Desserts", "product":"vanille pudding","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 105,"Eiwit":  4.5,"Koolh": 19.0,"Vet": 1.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Desserts", "product":"vanille vla","Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 75, "Eiwit": 2.9, "Koolh": 10.1, "Vet": 2.6},
+			{"merk" : "Milbona","Kcal": 91, "Eiwit": 2.5, "Koolh": 13.3, "Vet": 3.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{"category" : "Desserts", "product":"vanille traum", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Ehrmann", "Kcal": 126, "Eiwit": 4.4, "Koolh": 18.0, "Vet": 4.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"toetje (125 gram)", "hoeveelheid": 125},
+			{"omschrijving":"gram", "hoeveelheid": 1}
+		]
+	}
+	
+	{"category" : "Desserts", "product":"vitalinea pruimen", "Defaulthoev":1, "Eenheid":"reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 108,"Eiwit":  1.1,"Koolh": 20.7,"Vet": 2.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{"category" : "Desserts", "product":"vitalinea abrikozen", "Defaulthoev":1, "Eenheid":"reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 102,"Eiwit":  1.4,"Koolh": 18.0,"Vet": 2.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Dranken", "product":"koffie","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Koffie", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Espresso", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Cappuchino", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Koffie verkeerd", "Kcal": 29.4, "Eiwit": 2.3, "Koolh": 2.8, "Vet": 1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+
+	{"category" : "Dranken", "product":"peresap","Defaulthoev":100, "Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  35,"Eiwit":  0.1,"Koolh":  8.7,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"rivella light","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":   4,"Eiwit":  0.0,"Koolh":  1.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"rozebottelsiroop","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 228,"Eiwit":  0.0,"Koolh": 57.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"santen kokosmelk","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 346,"Eiwit":  4.0,"Koolh":  6.0,"Vet":34.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Dranken", "product":"taksi","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  51,"Eiwit":  0.9,"Koolh": 11.8,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"tomatesap","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  18,"Eiwit":  1.0,"Koolh":  3.5,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"tweedrank","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  40,"Eiwit":  0.2,"Koolh":  9.9,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"vruchtenlimonade","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  39,"Eiwit":  0.0,"Koolh":  9.8,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"vruchtesap","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  41,"Eiwit":  0.0,"Koolh": 10.1,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"yoghurtdrank","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  66,"Eiwit":  3.2,"Koolh": 13.3,"Vet": 0.0}	
+		],	
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Fruit", "product":"aalbessen", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen","Kcal":24,"Eiwit":1.0,"Koolh":5.0,"Vet":0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Fruit", "product":"aardbeien","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen","Kcal":24,"Eiwit":1.0,"Koolh":5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"abrikoos","Defaulthoev":1, "Eenheid":"stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":20,"Eiwit":0.0,"Koolh":5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Fruit", "product":"ananas","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":88,"Eiwit":0.0,"Koolh": 22.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"appel","Defaulthoev":1, "Eenheid":"stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":60,"Eiwit":1.0,"Koolh": 14.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"banaan","Defaulthoev":1, "Eenheid":"stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 124,"Eiwit":1.0,"Koolh": 30.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"bosbessen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":35,"Eiwit":0.3,"Koolh":7.4,"Vet": 0.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"bramen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":37,"Eiwit":1.0,"Koolh":6.0,"Vet": 1.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"citroen", "Defaulthoev":1, "Eenheid":"stuk",
+	"Merken" : [
+		{"merk" : "Algemeen", "Kcal":10,"Eiwit":0.0,"Koolh":2.5,"Vet": 0.0}
+	],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}		
+	
+	{"category" : "Fruit", "product":"dadels","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 165,"Eiwit":2.0,"Koolh": 37.0,"Vet": 1.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"druiven","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":66,"Eiwit":0.5,"Koolh": 16.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"frambozen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":30,"Eiwit":1.3,"Koolh":5.6,"Vet": 0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"granaatappel","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":62,"Eiwit":1.0,"Koolh": 13.7,"Vet": 0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"grapefruit","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":30,"Eiwit":0.9,"Koolh":6.6,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"guave","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":72,"Eiwit":1.0,"Koolh": 17.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"kaki","Defaulthoev":100, "Eenheid":"gram",	
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":66,"Eiwit":0.5,"Koolh": 16.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"kersen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":64,"Eiwit":1.0,"Koolh": 15.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"kiwi","Defaulthoev":1, "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":24,"Eiwit":0.0,"Koolh":6.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"kokosnoot","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 389,"Eiwit":4.0,"Koolh": 10.0,"Vet":37.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Fruit", "product":"kruisbessen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":40,"Eiwit":1.0,"Koolh":9.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"lychee","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":68,"Eiwit":1.0,"Koolh": 16.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"mandarijn","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":16,"Eiwit":0.0,"Koolh":4.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"mango","Defaulthoev":"1", "Eenheid":"stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":64,"Eiwit":1.0,"Koolh": 15.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"meloen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":28,"Eiwit":1.0,"Koolh":6.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"nectarine","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":50,"Eiwit":0.5,"Koolh": 12.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"papaya","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":36,"Eiwit":1.0,"Koolh":8.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"passievrucht","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 102,"Eiwit":2.0,"Koolh": 19.0,"Vet": 2.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"peer","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":52,"Eiwit":1.0,"Koolh": 12.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"perzik","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":46,"Eiwit":0.8,"Koolh": 10.5,"Vet": 0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"pompelmoes","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":72,"Eiwit":1.0,"Koolh": 17.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"pompoen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":36,"Eiwit":1.0,"Koolh":8.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Fruit", "product":"pruim","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":24,"Eiwit":0.0,"Koolh":6.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"rode bessen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":24,"Eiwit":1.0,"Koolh":5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"sinaasappel","Defaulthoev":"1", "Eenheid": "stuk",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":48,"Eiwit":1.0,"Koolh": 11.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"watermeloen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":36,"Eiwit":1.0,"Koolh":8.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Fruit", "product":"zwarte bessen","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":40,"Eiwit":2.0,"Koolh":8.0,"Vet":0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Granen", "product":"all bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit": 14.0,"Koolh": 46.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bambix","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 344,"Eiwit":  9.5,"Koolh": 72.0,"Vet": 2.0}
+		],					
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bami goreng","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 145,"Eiwit":  6.0,"Koolh": 19.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bladerdeeg","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 390,"Eiwit":  7.0,"Koolh": 41.0,"Vet":22.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bloem","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 333,"Eiwit": 11.0,"Koolh": 70.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}			
+	
+	{"category" : "Granen", "product":"bran buds","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 100,"Eiwit":  3.6,"Koolh": 18.9,"Vet": 1.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}			
+	
+	{"category" : "Granen", "product":"brinta","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 366,"Eiwit": 12.0,"Koolh": 74.0,"Vet": 2.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"brinta fruitvit","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 330,"Eiwit":  9.2,"Koolh": 68.6,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"cornflakes","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 381,"Eiwit":  8.5,"Koolh": 84.0,"Vet": 1.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+	{"category" : "Granen", "product":"cruesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 389,"Eiwit": 10.6,"Koolh": 68.3,"Vet": 8.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"gierst","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 109,"Eiwit":  3.6,"Koolh": 23.1,"Vet": 0.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+	{"category" : "Granen", "product":"griekse noedels","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 355,"Eiwit": 13.0,"Koolh": 73.0,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"havermout","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 363,"Eiwit": 13.0,"Koolh": 62.0,"Vet": 7.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+
+	{"category" : "Granen", "product":"kellogg's all bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit": 14.0,"Koolh": 46.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"kellogg's choco pops","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 374,"Eiwit":  5.0,"Koolh": 84.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's cornflakes","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 367,"Eiwit":  8.0,"Koolh": 82.0,"Vet": 0.8}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's frosties","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 377,"Eiwit":  5.0,"Koolh": 88.0,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]					
+	}
+	
+	{"category" : "Granen", "product":"kellogg's fruit & fiber","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 357,"Eiwit":  9.0,"Koolh": 69.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's muesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 362,"Eiwit": 10.0,"Koolh": 67.0,"Vet": 6.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's raisin bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 318,"Eiwit":  8.0,"Koolh": 67.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's rice crisp","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 377,"Eiwit":  6.0,"Koolh": 86.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's smacks","Defaulthoev":1, "Eenheid": "reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  91,"Eiwit":  2.0,"Koolh": 14.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"kellogg's special k","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 369,"Eiwit": 14.0,"Koolh": 76.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"macaroni","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 358,"Eiwit": 13.0,"Koolh": 72.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"maisgriesmeel","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 357,"Eiwit":  8.8,"Koolh": 78.0,"Vet": 1.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"maiskorrels","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  70,"Eiwit":  2.7,"Koolh": 12.0,"Vet": 1.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"maizena","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 337,"Eiwit":  0.0,"Koolh": 84.0,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"mie","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  94,"Eiwit":  3.1,"Koolh": 19.3,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"mihoen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 144,"Eiwit":  3.0,"Koolh": 33.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"muesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 374,"Eiwit":  6.5,"Koolh": 68.0,"Vet": 8.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"paneermeel","Defaulthoev":1, "Eenheid": "eetlepel",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  37,"Eiwit":  1.0,"Koolh":  6.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"pasta","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 347,"Eiwit": 12.0,"Koolh": 71.3,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"quorn","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  86,"Eiwit": 12.5,"Koolh":  1.8,"Vet": 3.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"ravioli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 113,"Eiwit":  5.0,"Koolh": 12.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"rijst basmati","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 347,"Eiwit":  7.0,"Koolh": 78.5,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"rijst zilvervlies","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 369,"Eiwit":  8.9,"Koolh": 78.0,"Vet": 2.4}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"roerbakmie Soubry","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 367,"Eiwit": 14.0,"Koolh": 71.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"spaghetti","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 346,"Eiwit": 12.0,"Koolh": 71.0,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"spaghetti volkoren","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 332,"Eiwit": 13.5,"Koolh": 64.0,"Vet": 2.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"studentenhaver","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 468,"Eiwit":  8.8,"Koolh": 35.3,"Vet":32.4}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"tagliatelle","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 373,"Eiwit": 14.1,"Koolh": 70.8,"Vet": 3.7}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"tarwekiemen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 287,"Eiwit": 27.0,"Koolh": 20.0,"Vet":11.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"zemelen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 218,"Eiwit": 14.0,"Koolh": 27.0,"Vet":6.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"zonnebloempitten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 632,"Eiwit": 18.0,"Koolh": 13.0,"Vet":6.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+
+	{"category" : "Groenten", "product":"andijvie","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal":  17,"Eiwit":  1.8,"Koolh":  2.1,"Vet": 0.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"artisjok","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal":  59,"Eiwit":  2.4,"Koolh": 12.2,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"asperges","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal":  16,"Eiwit":  1.0,"Koolh":  3.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"aubergine","Defaulthoev":100, "Eenheid":"gram",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal":24,"Eiwit":1.0,"Koolh":5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"augurken","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal":  18,"Eiwit":  0.9,"Koolh":  3.6,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"avocado","Defaulthoev":1, "Eenheid": "stuk",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal": 226,"Eiwit":  4.0,"Koolh": 12.0,"Vet":18.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"bieslook","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 				
+			{"merk" : "Algemeen", "Kcal":  57,"Eiwit":  4.0,"Koolh":  8.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"bleekselderij","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  24,"Eiwit":  2.0,"Koolh":  4.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"bloemkool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  20,"Eiwit":  2.0,"Koolh":  3.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"boerenkool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  41,"Eiwit":  4.0,"Koolh":  4.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"bonen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal": 266,"Eiwit": 20.0,"Koolh": 43.0,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"broccoli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  20,"Eiwit":  2.0,"Koolh":  3.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"champignons","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  16,"Eiwit":  3.0,"Koolh":  1.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"chinese kool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  12,"Eiwit":  1.2,"Koolh":  1.2,"Vet": 0.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"courgette","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":   6,"Eiwit":  0.5,"Koolh":  1.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"doperwten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  60,"Eiwit":  5.0,"Koolh": 10.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"groene kool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  37,"Eiwit":  3.0,"Koolh":  4.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Granen", "product":"kapucijners","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 106,"Eiwit":  8.0,"Koolh": 17.2,"Vet": 0.6}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Groenten", "product":"kidney beans","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  95,"Eiwit":  7.1,"Koolh": 15.2,"Vet": 0.7}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"kikkererwten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal": 163,"Eiwit":  8.0,"Koolh": 26.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"knoflook","Defaulthoev":1, "Eenheid": "teentje",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  14,"Eiwit":  0.3,"Koolh":  0.0,"Vet": 1.4}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}			
+	
+	{"category" : "Groenten", "product":"komkommer","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":   8,"Eiwit":  1.0,"Koolh":  1.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"koolraap","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  12,"Eiwit":  1.0,"Koolh":  2.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}
+	
+	{"category" : "Groenten", "product":"linzen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  32,"Eiwit":  3.0,"Koolh":  5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"mais","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal": 114,"Eiwit":  3.3,"Koolh": 23.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"mierik","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  63,"Eiwit":  2.8,"Koolh": 12.4,"Vet": 0.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"olijven","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal": 232,"Eiwit":  6.0,"Koolh":  7.0,"Vet":20.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"paprika","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  48,"Eiwit":  2.0,"Koolh": 10.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"postelijn","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  26,"Eiwit":  1.5,"Koolh":  4.3,"Vet": 0.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"prei","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  28,"Eiwit":  2.0,"Koolh":  5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"rabarber","Defaulthoev":1, "Eenheid": "stuk",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":   8,"Eiwit":  0.0,"Koolh":  2.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"radijsjes","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  20,"Eiwit":  1.0,"Koolh":  4.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"rode biet","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  37,"Eiwit":  1.5,"Koolh":  7.6,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"rode kool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  28,"Eiwit":  2.0,"Koolh":  5.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"selderij","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  21,"Eiwit":  1.2,"Koolh":  3.6,"Vet": 0.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"sjalot","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  75,"Eiwit":  1.3,"Koolh": 17.0,"Vet": 0.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Groenten", "product":"sla","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  10,"Eiwit":  0.5,"Koolh":  2.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Groenten", "product":"spinazie","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  24,"Eiwit":  3.0,"Koolh":  3.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}					
+	
+	{"category" : "Groenten", "product":"spitskool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  37,"Eiwit":  3.0,"Koolh":  4.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"spruiten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  53,"Eiwit":  4.0,"Koolh":  7.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"tauge","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  41,"Eiwit":  5.0,"Koolh":  3.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"tomaten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  16,"Eiwit":  1.0,"Koolh":  3.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"ui","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  44,"Eiwit":  1.0,"Koolh": 10.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"venkel","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  36,"Eiwit":  2.0,"Koolh":  7.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"witloof","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  12,"Eiwit":  1.0,"Koolh":  2.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"witte bonen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal": 334,"Eiwit": 21.0,"Koolh": 58.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	{"category" : "Groenten", "product":"wortelen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  32,"Eiwit":  1.0,"Koolh":  7.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}				
+	
+	{"category" : "Groenten", "product":"zuurkool","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 			
+			{"merk" : "Algemeen", "Kcal":  24,"Eiwit":  2.0,"Koolh":  4.0,"Vet":0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid":1}
+		]
+	}						
+	
+	

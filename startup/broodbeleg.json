@@ -1,0 +1,9 @@
+	{"category" : "Broodbeleg", "product":"kokosbrood","Defaulthoev":100,"Eenheid":"gram", 
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 422,"Eiwit":  4.0,"Koolh": 34.0,"Vet":30.0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}												
+		]
+	}

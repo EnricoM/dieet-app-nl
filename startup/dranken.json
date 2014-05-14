@@ -1,0 +1,114 @@
+	{"category" : "Dranken", "product":"koffie","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Koffie", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Espresso", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Cappuchino", "Kcal": 0, "Eiwit": 0, "Koolh": 0, "Vet": 0},
+			{"merk" : "Koffie verkeerd", "Kcal": 29.4, "Eiwit": 2.3, "Koolh": 2.8, "Vet": 1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"kop", "hoeveelheid":120},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}	
+
+	{"category" : "Dranken", "product":"peresap","Defaulthoev":100, "Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  35,"Eiwit":  0.1,"Koolh":  8.7,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"rivella light","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":   4,"Eiwit":  0.0,"Koolh":  1.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"rozebottelsiroop","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 228,"Eiwit":  0.0,"Koolh": 57.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"santen kokosmelk","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal": 346,"Eiwit":  4.0,"Koolh":  6.0,"Vet":34.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}				
+
+	{"category" : "Dranken", "product":"taksi","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  51,"Eiwit":  0.9,"Koolh": 11.8,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"tomatesap","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  18,"Eiwit":  1.0,"Koolh":  3.5,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"tweedrank","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  40,"Eiwit":  0.2,"Koolh":  9.9,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"vruchtenlimonade","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  39,"Eiwit":  0.0,"Koolh":  9.8,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"vruchtesap","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  41,"Eiwit":  0.0,"Koolh": 10.1,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}					
+
+	{"category" : "Dranken", "product":"yoghurtdrank","Defaulthoev":100, "Eenheid": "ml",
+		"Merken" : [ 
+			{"merk" : "Algemeen","Kcal":  66,"Eiwit":  3.2,"Koolh": 13.3,"Vet": 0.0}	
+		],	
+		"Eenheden" : [			
+			{"omschrijving":"glas", "hoeveelheid":200},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		]
+	}				
+
+	

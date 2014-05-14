@@ -1,0 +1,393 @@
+	{"category" : "Granen", "product":"all bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit": 14.0,"Koolh": 46.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bambix","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 344,"Eiwit":  9.5,"Koolh": 72.0,"Vet": 2.0}
+		],					
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bami goreng","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 145,"Eiwit":  6.0,"Koolh": 19.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bladerdeeg","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 390,"Eiwit":  7.0,"Koolh": 41.0,"Vet":22.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}				
+	
+	{"category" : "Granen", "product":"bloem","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 333,"Eiwit": 11.0,"Koolh": 70.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}			
+	
+	{"category" : "Granen", "product":"bran buds","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 100,"Eiwit":  3.6,"Koolh": 18.9,"Vet": 1.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}			
+	
+	{"category" : "Granen", "product":"brinta","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 366,"Eiwit": 12.0,"Koolh": 74.0,"Vet": 2.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"brinta fruitvit","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 330,"Eiwit":  9.2,"Koolh": 68.6,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"cornflakes","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 381,"Eiwit":  8.5,"Koolh": 84.0,"Vet": 1.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+	{"category" : "Granen", "product":"cruesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 389,"Eiwit": 10.6,"Koolh": 68.3,"Vet": 8.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"gierst","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 109,"Eiwit":  3.6,"Koolh": 23.1,"Vet": 0.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+	{"category" : "Granen", "product":"griekse noedels","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 355,"Eiwit": 13.0,"Koolh": 73.0,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"havermout","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 363,"Eiwit": 13.0,"Koolh": 62.0,"Vet": 7.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}					
+
+	{"category" : "Granen", "product":"kellogg's all bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 267,"Eiwit": 14.0,"Koolh": 46.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"kellogg's choco pops","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 374,"Eiwit":  5.0,"Koolh": 84.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's cornflakes","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 367,"Eiwit":  8.0,"Koolh": 82.0,"Vet": 0.8}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's frosties","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 377,"Eiwit":  5.0,"Koolh": 88.0,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]					
+	}
+	
+	{"category" : "Granen", "product":"kellogg's fruit & fiber","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 357,"Eiwit":  9.0,"Koolh": 69.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's muesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 362,"Eiwit": 10.0,"Koolh": 67.0,"Vet": 6.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's raisin bran","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 318,"Eiwit":  8.0,"Koolh": 67.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's rice crisp","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 377,"Eiwit":  6.0,"Koolh": 86.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"kellogg's smacks","Defaulthoev":1, "Eenheid": "reep",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  91,"Eiwit":  2.0,"Koolh": 14.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"kellogg's special k","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 369,"Eiwit": 14.0,"Koolh": 76.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"macaroni","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 358,"Eiwit": 13.0,"Koolh": 72.0,"Vet": 2.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"maisgriesmeel","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 357,"Eiwit":  8.8,"Koolh": 78.0,"Vet": 1.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"maiskorrels","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  70,"Eiwit":  2.7,"Koolh": 12.0,"Vet": 1.3}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"maizena","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 337,"Eiwit":  0.0,"Koolh": 84.0,"Vet": 0.1}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"mie","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  94,"Eiwit":  3.1,"Koolh": 19.3,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"mihoen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 144,"Eiwit":  3.0,"Koolh": 33.0,"Vet": 0.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"muesli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 374,"Eiwit":  6.5,"Koolh": 68.0,"Vet": 8.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"paneermeel","Defaulthoev":1, "Eenheid": "eetlepel",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  37,"Eiwit":  1.0,"Koolh":  6.0,"Vet": 1.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"pasta","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 347,"Eiwit": 12.0,"Koolh": 71.3,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"quorn","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal":  86,"Eiwit": 12.5,"Koolh":  1.8,"Vet": 3.2}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"ravioli","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 113,"Eiwit":  5.0,"Koolh": 12.0,"Vet": 5.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"rijst basmati","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 347,"Eiwit":  7.0,"Koolh": 78.5,"Vet": 0.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"rijst zilvervlies","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 369,"Eiwit":  8.9,"Koolh": 78.0,"Vet": 2.4}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"roerbakmie Soubry","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 367,"Eiwit": 14.0,"Koolh": 71.0,"Vet": 3.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"spaghetti","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 346,"Eiwit": 12.0,"Koolh": 71.0,"Vet": 1.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"spaghetti volkoren","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 332,"Eiwit": 13.5,"Koolh": 64.0,"Vet": 2.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"studentenhaver","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 468,"Eiwit":  8.8,"Koolh": 35.3,"Vet":32.4}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"tagliatelle","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 373,"Eiwit": 14.1,"Koolh": 70.8,"Vet": 3.7}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"tarwekiemen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 287,"Eiwit": 27.0,"Koolh": 20.0,"Vet":11.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}		
+	
+	{"category" : "Granen", "product":"zemelen","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [ 
+			{"merk" : "Algemeen", "Kcal": 218,"Eiwit": 14.0,"Koolh": 27.0,"Vet":6.0}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
+	
+	{"category" : "Granen", "product":"zonnebloempitten","Defaulthoev":100, "Eenheid": "gr",
+		"Merken" : [
+			{"merk" : "Algemeen", "Kcal": 632,"Eiwit": 18.0,"Koolh": 13.0,"Vet":6.5}
+		],
+		"Eenheden" : [			
+			{"omschrijving":"gr", "hoeveelheid": 1}
+		]
+	}	
