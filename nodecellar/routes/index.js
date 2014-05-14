@@ -26,8 +26,11 @@ module.exports = exports = function(app, db) {
 	app.post('/registration', function(req, res) {
 		sessionRoute.verifyLoggedOn(req, res, function(result) {
 			if (result.resultCode !== "SUCCESS") {
-				sessionRoute.registerUser(req, res, function(result) {
-					res.send(200, JSON.stringify(result));
+				sessionRoute.registerUser(req, res, function(resultMessage) {
+					if(resultMessage.messages[0].messageType === "SUCCESS") {
+						res.cookie('session', resultMessage.sessionId, { maxAge: 7200000 });
+					}
+					res.send(200, JSON.stringify(resultMessage));
 				});
 			} else {
 				sessionRoute.logoffUser(req, res, function(result) {
@@ -39,8 +42,11 @@ module.exports = exports = function(app, db) {
 	});
 	
 	app.post('/session', function(req, res) {
-		sessionRoute.logonUser(req, res, function(result) {
-			res.send(200, JSON.stringify(result));
+		sessionRoute.logonUser(req, res, function(resultMessage) {
+			if(resultMessage.messages[0].messageType === "SUCCESS") {
+				res.cookie('session', resultMessage.sessionId, { maxAge: 7200000 });
+			}
+			res.send(200, JSON.stringify(resultMessage));
 		});	
 	});
 	

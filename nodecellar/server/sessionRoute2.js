@@ -3,50 +3,40 @@ var iz = require('iz');
 
 function SessionRoute(db) {
 	
-	this.logonUser = function (req, res, next) {
-		console.log('In SessionRoute, function logonUser');
+	this.postSession = function (req, res, next) {
+		console.log('In SessionRoute, function postSession');
 		var session = {
 			"email" : req.body.email,
 			"pwd" : req.body.pwd
 		};
-		sessionHandler.readUser(session, db, function(resultMessage) {
+		
+		sessionHandler.postSession(session, db, function(resultMessage) {
 			next(resultMessage);
 		});
 	};
 
-	this.verifyLoggedOn = function(req, res, next) {
-		console.log('In SessionRoute, function verifyLoggedOn');
+	this.getSession = function(req, res, next) {
+		console.log('In SessionRoute, function getSession');
 		var session = {
 			"sessionId" : req.cookies.session
 		};
-		sessionHandler.readSession(session, db, function(result) {
+		sessionHandler.getSession(session, db, function(result) {
 			next(result);
 		});
 	};
 	
-	this.logoffUser = function(req, res, next) {
-		console.log('In SessionRoute, function logoffUser');
+	this.deleteSession = function(req, res, next) {
+		console.log('In SessionRoute, function deleteSession');
 		var session = {
 			"sessionId" : req.cookies.session
 		};
 		
+		// input checks
 		sessionHandler.deleteSession(session, db, function(resultMessage) {
-			console.log('In SessionRoute, function logoffUser, result from handler', resultMessage);
+			console.log('In SessionRoute, function deleteSession, result from handler', resultMessage);
 			next(resultMessage);
 		});
 	};	
-	
-	this.registerUser = function (req, res, next) {
-		console.log('In SessionRoute, function registerUser');
-		var registration = {
-			"userName" : req.body.userName,
-			"email" : req.body.email,
-			"pwd" : req.body.pwd
-		};
-		sessionHandler.createUser(registration, db, function(resultMessage) {
-			next(resultMessage);
-		});
-	};
 	
 /*	
 	var sessionIdIz = function() {	

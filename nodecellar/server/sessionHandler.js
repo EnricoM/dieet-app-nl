@@ -1,6 +1,7 @@
 var sessionDAO = require('./sessionDAO');
 
 function deleteSession(session, db, result) {
+	console.log('In sessionHanddler, function deleteSession', session);
 	if (session.sessionId) {
 		sessionDAO.deleteSession(session.sessionId, db, function(resultCode, doc) {
 			if (resultCode === "SUCCESS") {
@@ -15,6 +16,7 @@ function deleteSession(session, db, result) {
 };
 	
 function readSession(session, db, next) {
+	console.log('In sessionHanddler, function readSession', session);
 	if (session.sessionId) {
 		sessionDAO.readSession(session.sessionId, db, function(resultCode, doc) {
 			if (resultCode === "SUCCESS") {
@@ -39,6 +41,7 @@ function readSession(session, db, next) {
 };
 	
 function readUser(session, db, result) {
+	console.log('In sessionHanddler, function readUser', session);
 	var errors = new Errors();
 	if (logonUserValidation(session, errors)) {
 		sessionDAO.readUser(session, db, function(resultCode, doc) {
@@ -88,6 +91,7 @@ function readUser(session, db, result) {
 
 	
 function createUser(registration, db, result) {
+	console.log('In sessionHanddler, function createUser', registration);
 	var errors = new Errors();
 	if (registerUserValidation(registration, errors)) {
 		sessionDAO.createUser(registration, db, function(resultCode, doc) {
@@ -239,7 +243,7 @@ function registerUserResultMessage(errors, session) {
 			"messageText" : "Gegevens toegevoegd"
 		};		
 		messages.push(message);	
-	}			
+	}
 	if (errors.firstName_error === true) {
 		message = {	
 			"messageType" : "ERROR",
