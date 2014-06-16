@@ -4,8 +4,10 @@
 { "_id" : "Broodbeleg" }
 { "_id" : "Desserts" }
 { "_id" : "Diversen" }
-{ "_id" : "Dranken" }
+{ "_id" : "Drinken" }
 { "_id" : "Fruit" }
 { "_id" : "Granen" }
 { "_id" : "Groenten" }
 { "_id" : "Ijs" }
+{ "_id" : "Zuivel" }
+{ "_id" : "Koek/gebak" }

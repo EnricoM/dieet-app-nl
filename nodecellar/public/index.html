@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Goede voornemens</title>
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-	<!--<link rel="stylesheet" href="../css/difreet.css">-->
+	<script src=".\js\d3.min.js"></script>
 	
 </head>
 <body>
@@ -27,7 +27,7 @@
 			</ul>
 		</div>
 	</header>	
-	
+
 	<div class="container">
 		<div class="row" id="someText">
 			<div class="col-sm-12 col-xs-12 column">
@@ -36,8 +36,89 @@
 			</div>
 		</div>
 	</div>
+	
+	<script>
+		var svg = d3.select("body")
+			.append("svg")
+			.attr("width", 500)
+			.attr("height", 500);
+	
+		var thinPersonData = [
+			{p: [{ "x": 100,   "y": 400},  { "x": 100,  "y": 100}], w: 20, c: 'black'},
+			{p: [{ "x": 80,  "y": 100}, { "x": 250,  "y": 100}], w: 20, c: 'black'},
+			{p: [{ "x": 144,  "y": 100},  { "x": 100, "y": 160}], w: 10, c: 'black'},
+			{p: [{x: 230, y: 100}, {x: 230, y: 140}], w: 5, c: 'black'},
+			{p: [{x: 230, y: 140}, {x: 230, y: 165}], w: 20, c: 'green'},
+			{p: [{x: 230, y: 165}, {x: 230, y: 170}], w: 5, c: 'green'},
+			{p: [{x: 230, y: 170}, {x: 230, y: 210}], w: 30, c: 'green'},			
+			{p: [{x: 215, y: 210}, {x: 205, y: 240}], w: 5, c: 'green'},
+			{p: [{x: 245, y: 210}, {x: 255, y: 240}], w: 5, c: 'green'},
+			{p: [{x: 215, y: 170}, {x: 205, y: 200}], w: 5, c: 'green'},
+			{p: [{x: 245, y: 170}, {x: 255, y: 200}], w: 5, c: 'green'}				
+		];			
+
+		var fatPersonData = [
+			{p: [{ "x": 100,   "y": 400},  { "x": 100,  "y": 100}], w: 20, c: 'black'},
+			{p: [{ "x": 80,  "y": 100}, { "x": 250,  "y": 100}], w: 20, c: 'black'},
+			{p: [{ "x": 144,  "y": 100},  { "x": 100, "y": 160}], w: 10, c: 'black'},
+			{p: [{x: 230, y: 100}, {x: 230, y: 220}], w: 5, c: 'black'},
+			{p: [{x: 230, y: 220}, {x: 230, y: 245}], w: 30, c: 'red'},
+			{p: [{x: 230, y: 245}, {x: 230, y: 250}], w: 5, c: 'red'},
+			{p: [{x: 230, y: 250}, {x: 230, y: 290}], w: 60, c: 'red'},			
+			{p: [{x: 215, y: 290}, {x: 205, y: 320}], w: 15, c: 'red'},
+			{p: [{x: 245, y: 290}, {x: 255, y: 320}], w: 15, c: 'red'},
+			{p: [{x: 200, y: 250}, {x: 180, y: 280}], w: 15, c: 'red'},
+			{p: [{x: 260, y: 250}, {x: 280, y: 280}], w: 15, c: 'red'}
+		];			
+
+		var currentData = thinPersonData;
+		
+		var lineFunction = d3.svg.line()
+			.x(function(d) {
+				return d.x;
+			})
+			.y(function(d) {
+				return d.y;
+			})
+			.interpolate("linear");
+
+		svg.selectAll('path')
+			.data(currentData)
+			.enter()
+				.append('path')
+					.attr('d', function(d) { return lineFunction(d.p); })
+					.attr('stroke-width', function(d) { return d.w; })
+					.attr('stroke', function(d) { return d.c; });
+
+		currentData = fatPersonData;
+
+		var update = function() {
+			svg.selectAll('path')
+				.data(currentData)
+				.transition()
+					.duration(3000)
+					//.delay(1000)
+					.attr('d', function(d) { return lineFunction(d.p); })
+					.attr('stroke-width', function(d) { return d.w; })
+					.attr('stroke', function(d) { return d.c; });
+		}
+					
+		update();
+		
+		var interval = 1000;
+		setInterval(function() {
+			if (currentData === thinPersonData) {
+				currentData = fatPersonData
+			} else {
+				currentData = thinPersonData
+			}
+			update(currentData);
+		}, 4000);
+		
+	</script>
 	 <script src="https://code.jquery.com/jquery.js"></script>
 	 <script src="js/lib/bootstrap.min.js"></script>
+	 
 </body>
 
 </html>

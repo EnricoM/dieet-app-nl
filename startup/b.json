@@ -1,0 +1,1543 @@
+	{ "product":"Bacon", "group":"C", "category":"Vleeswaren", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":28, "Eiwit":3, "Koolh":0, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Bagel", "group":"B", "category":"Brood", "Defaulthoev":85, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":223, "Eiwit":8, "Koolh":39, "Vet":3, "Verzvet":1, "Vezels":3, "Natrium":0.5}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":85},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Baileys", "group":"F", "category":"Alcohol", "Defaulthoev":35, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":103, "Eiwit":1, "Koolh":8, "Vet":4, "Verzvet":2, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Bak- en braadvet", "group":"C", "category":"Olie/Vetten", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":87, "Eiwit":0, "Koolh":0, "Vet":10, "Verzvet":5, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Bakbanaan", "group":"A", "category":"Fruit", "Defaulthoev":300, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":399, "Eiwit":3, "Koolh":96, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":300},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Bakbokking", "group":"A", "category":"Vis", "Defaulthoev":110, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":367, "Eiwit":24, "Koolh":3, "Vet":29, "Verzvet":5, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":110},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Baklava", "group":"F", "category":"Dessert", "Defaulthoev":120, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":526, "Eiwit":5, "Koolh":64, "Vet":27, "Verzvet":10, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":120},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Balisto", "group":"F", "category":"Snoep", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":90, "Eiwit":2, "Koolh":11, "Vet":5, "Verzvet":2, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Balkenbrij", "group":"A", "category":"Overig", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":95, "Eiwit":4, "Koolh":13, "Vet":3, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Bambix 8 granen ontbijt", "group":"A", "category":"Granen", "Defaulthoev":3, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":11, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	{ "product":"Bambix groeipap fijne granen", "group":"A", "category":"Granen", "Defaulthoev":3, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":11, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Bambix groeipap  volkoren", "group":"A", "category":"Granen", "Defaulthoev":3, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":11, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Bamboespruiten", "group":"A", "category":"Groente", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":16, "Eiwit":1, "Koolh":3, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Bamibal", "group":"F", "category":"Snacks", "Defaulthoev":85, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":233, "Eiwit":6, "Koolh":26, "Vet":12, "Verzvet":6, "Vezels":0, "Natrium":0.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":85},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Banaan", "group":"A", "category":"Fruit", "Defaulthoev":130, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":124, "Eiwit":1, "Koolh":27, "Vet":0, "Verzvet":0, "Vezels":3, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":130},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Banketstaaf", "group":"F", "category":"Koek/gebak", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":114, "Eiwit":2, "Koolh":13, "Vet":6, "Verzvet":2, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stukje", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Basilicum vers", "group":"A", "category":"Groente", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":12, "Eiwit":1, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"zakje", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Basterdsuiker wit", "group":"F", "category":"Overig", "Defaulthoev":10, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":40, "Eiwit":0, "Koolh":10, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+
+	{ "product":"Basterdsuiker bruin", "group":"F", "category":"Overig", "Defaulthoev":10, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":40, "Eiwit":0, "Koolh":10, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}
+	
+	{ "product":"Bataat (gekookt)", "group":"A", "category":"Aardappel", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":122, "Eiwit":1, "Koolh":27, "Vet":0, "Verzvet":0, "Vezels":3, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}	
+	
+	{ "product":"Beenham", "group":"A", "category":"Vlees", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":26, "Eiwit":4, "Koolh":0, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}		
+	
+	{ "product":"Berenburg", "group":"F", "category":"Alcohol", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":66, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Berenhap", "group":"F", "category":"Snacks", "Defaulthoev":155, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":316, "Eiwit":13, "Koolh":9, "Vet":25, "Verzvet":10, "Vezels":2, "Natrium":1.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":155},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Berlinerbol", "group":"F", "category":"Koek/gebak", "Defaulthoev":80, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":245, "Eiwit":5, "Koolh":37, "Vet":8, "Verzvet":3, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":80},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bertoli halvarine", "group":"A", "category":"Olie/Vetten", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":18, "Eiwit":0, "Koolh":0, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bertoli vloeibare margarine", "group":"A", "category":"Olie/Vetten", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":74, "Eiwit":0, "Koolh":0, "Vet":8, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Beschuit", "group":"C", "category":"Brood", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":40, "Eiwit":2, "Koolh":7, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Beschuit natriumarm", "group":"C", "category":"Brood", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":40, "Eiwit":2, "Koolh":7, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Beschuit volkoren", "group":"C", "category":"Brood", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":39, "Eiwit":2, "Koolh":7, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Beschuitbol", "group":"C", "category":"Brood", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":99, "Eiwit":4, "Koolh":18, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bessenjenever", "group":"F", "category":"Alcohol", "Defaulthoev":35, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":64, "Eiwit":0, "Koolh":6, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bessensap", "group":"B", "category":"Drinken", "Defaulthoev":150, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":56, "Eiwit":0, "Koolh":14, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bieflap, rund", "group":"A", "category":"Vlees", "Defaulthoev":80, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":126, "Eiwit":23, "Koolh":0, "Vet":4, "Verzvet":1, "Vezels":0, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stukje", "hoeveelheid":80},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biefstuk", "group":"A", "category":"Vlees", "Defaulthoev":80, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":117, "Eiwit":23, "Koolh":0, "Vet":3, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stukje", "hoeveelheid":80},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier light", "group":"E", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":58, "Eiwit":1, "Koolh":11, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier alcoholarm", "group":"E", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":58, "Eiwit":1, "Koolh":11, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier alcoholvrij", "group":"E", "category":"Drinken", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":65, "Eiwit":1, "Koolh":15, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier oud bruin", "group":"F", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":92, "Eiwit":1, "Koolh":13, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier pils", "group":"F", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":112, "Eiwit":1, "Koolh":7, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier wit", "group":"F", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":112, "Eiwit":1, "Koolh":7, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bier zwaar", "group":"F", "category":"Alcohol", "Defaulthoev":250, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":160, "Eiwit":1, "Koolh":10, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bierworstje", "group":"F", "category":"Vlees", "Defaulthoev":30, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":112, "Eiwit":5, "Koolh":0, "Vet":10, "Verzvet":4, "Vezels":1, "Natrium":0.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bieten gekookt", "group":"A", "category":"Groente", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":14, "Eiwit":1, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Bieten zoetzuur", "group":"C", "category":"Groente", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":20, "Eiwit":1, "Koolh":4, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bietensap", "group":"C", "category":"Drinken", "Defaulthoev":150, "Eenheid":"ml", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":51, "Eiwit":1, "Koolh":12, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje Bonne Mere", "group":"F", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":43, "Eiwit":1, "Koolh":8, "Vet":1, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje chocolade", "group":"F", "category":"Koek/gebak", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":70, "Eiwit":1, "Koolh":9, "Vet":3, "Verzvet":2, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje Digestive", "group":"F", "category":"Koek/gebak", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":70, "Eiwit":1, "Koolh":9, "Vet":3, "Verzvet":2, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje Maria", "group":"F", "category":"Koek/gebak", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":22, "Eiwit":0, "Koolh":4, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje Prince", "group":"F", "category":"Koek/gebak", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":94, "Eiwit":1, "Koolh":15, "Vet":3, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje San Francisco", "group":"F", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":43, "Eiwit":1, "Koolh":8, "Vet":1, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje San Francisco volkoren", "group":"F", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":45, "Eiwit":1, "Koolh":7, "Vet":2, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Biscuitje Tarwe met chocolade", "group":"F", "category":"Koek/gebak", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":73, "Eiwit":1, "Koolh":10, "Vet":3, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Biscuitje volkoren", "group":"F", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":45, "Eiwit":1, "Koolh":7, "Vet":2, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Biscuitje waaier", "group":"F", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":43, "Eiwit":1, "Koolh":8, "Vet":1, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+		
+	
+	{ "product":"Biscuitje zout", "group":"F", "category":"Koek/gebak", "Defaulthoev":4, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":19, "Eiwit":0, "Koolh":2, "Vet":1, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":4},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+		
+	
+	{ "product":"Bitter Lemon", "group":"F", "category":"Koek/gebak", "Defaulthoev":250, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":102, "Eiwit":0, "Koolh":25, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bitterbal", "group":"F", "category":"Frituur", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":45, "Eiwit":2, "Koolh":3, "Vet":3, "Verzvet":1, "Vezels":0, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+							
+	{ "product":"Bitterkoekje", "group":"D", "category":"Koek/gebak", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":41, "Eiwit":1, "Koolh":2, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bladerdeeg", "group":"F", "category":"Overig", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":246, "Eiwit":3, "Koolh":16, "Vet":19, "Verzvet":8, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Blauwe bessen", "group":"A", "category":"Fruit", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":65, "Eiwit":1, "Koolh":11, "Vet":0, "Verzvet":0, "Vezels":8, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bleekselderij gekookt", "group":"A", "category":"Fruit", "Defaulthoev":55, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":8, "Eiwit":1, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":55},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bleekselderij rauw", "group":"A", "category":"Fruit", "Defaulthoev":70, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":10, "Eiwit":1, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":70},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Blinde vink", "group":"C", "category":"Vlees", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":140, "Eiwit":23, "Koolh":0, "Vet":5, "Verzvet":2, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bloedworst", "group":"C", "category":"Vlees", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":386, "Eiwit":12, "Koolh":10, "Vet":33, "Verzvet":12, "Vezels":3, "Natrium":0.8}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bloem", "group":"C", "category":"Overig", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":35, "Eiwit":1, "Koolh":7, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bloemkool gekookt", "group":"A", "category":"Groente", "Defaulthoev":55, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":13, "Eiwit":1, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":55},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Bloemkool rauw", "group":"A", "category":"Groente", "Defaulthoev":70, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":18, "Eiwit":1, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":70},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Blue Band Finesse voor koken", "group":"A", "category":"Zuivel", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":16, "Eiwit":0, "Koolh":0, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Blue Band Finesse voor verrijken", "group":"A", "category":"Zuivel", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":21, "Eiwit":0, "Koolh":1, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boemboe", "group":"F", "category":"Overig", "Defaulthoev":95, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":292, "Eiwit":2, "Koolh":25, "Vet":20, "Verzvet":10, "Vezels":2, "Natrium":2.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"pakje", "hoeveelheid":95},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boerenkool gekookt", "group":"A", "category":"Groente", "Defaulthoev":85, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":39, "Eiwit":3, "Koolh":3, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":85},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+				
+	{ "product":"Bokking gerookt", "group":"A", "category":"Vis", "Defaulthoev":110, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":262, "Eiwit":26, "Koolh":0, "Vet":18, "Verzvet":4, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":110},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bokking gestoomd", "group":"A", "category":"Vis", "Defaulthoev":110, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":256, "Eiwit":23, "Koolh":1, "Vet":18, "Verzvet":4, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":110},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bolus", "group":"F", "category":"Koek/gebak", "Defaulthoev":65, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":205, "Eiwit":4, "Koolh":33, "Vet":6, "Verzvet":2, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":65},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bonbon", "group":"F", "category":"Snoep", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":78, "Eiwit":1, "Koolh":8, "Vet":5, "Verzvet":3, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bonbon met likeur", "group":"F", "category":"Snoep", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":58, "Eiwit":1, "Koolh":8, "Vet":2, "Verzvet":2, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bonen bruine/ witte gekookt", "group":"A", "category":"Groente", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":79, "Eiwit":5, "Koolh":10, "Vet":1, "Verzvet":0, "Vezels":7, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Borrelnootjes", "group":"F", "category":"Noten", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":137, "Eiwit":4, "Koolh":11, "Vet":8, "Verzvet":2, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"handje", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Borstplaat room", "group":"D", "category":"Overig", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":35, "Eiwit":0, "Koolh":8, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Borstplaat water", "group":"D", "category":"Overig", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":38, "Eiwit":0, "Koolh":10, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bosbessen", "group":"A", "category":"Fruit", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":43, "Eiwit":1, "Koolh":6, "Vet":0, "Verzvet":0, "Vezels":7, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bosbessen op siroop", "group":"C", "category":"Fruit", "Defaulthoev":125, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":104, "Eiwit":1, "Koolh":23, "Vet":0, "Verzvet":0, "Vezels":5, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":125},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bossche bol", "group":"F", "category":"Koek/gebak", "Defaulthoev":75, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":254, "Eiwit0":1, "Koolh":17, "Vet":19, "Verzvet":10, "Vezels":1, "Natrium":0.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":75},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bosuitje rauw", "group":"A", "category":"Groente", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":15, "Eiwit":1, "Koolh":3, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boter gezouten", "group":"C", "category":"Zuivel", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":37, "Eiwit":0, "Koolh":0, "Vet":4, "Verzvet":3, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boter halfvol", "group":"C", "category":"Zuivel", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":17, "Eiwit":0, "Koolh":0, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boter ongezouten", "group":"C", "category":"Zuivel", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":37, "Eiwit":0, "Koolh":0, "Vet":4, "Verzvet":3, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boterhamworst", "group":"C", "category":"Vlees", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":46, "Eiwit":2, "Koolh":1, "Vet":4, "Verzvet":2, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boterhamworst mager", "group":"A", "category":"Vlees", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":24, "Eiwit":2, "Koolh":1, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boterkoek", "group":"F", "category":"Koek/gebak", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":89, "Eiwit":1, "Koolh":11, "Vet":4, "Verzvet":3, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"blokje", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boterletter", "group":"F", "category":"Koek/gebak", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":114, "Eiwit":2, "Koolh":13, "Vet":6, "Verzvet":2, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Boterproduct 25% vet", "group":"A", "category":"Zuivel", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":12, "Eiwit":0, "Koolh":0, "Vet":1, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 boterham", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bouillon", "group":"F", "category":"Soep", "Defaulthoev":250, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":12, "Eiwit":0, "Koolh":1, "Vet":1, "Verzvet":1, "Vezels":0, "Natrium":1.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"kop", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bounty", "group":"F", "category":"Snoep", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":71, "Eiwit":1, "Koolh":9, "Vet":4, "Verzvet":3, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"klein", "hoeveelheid":15},
+			{"omschrijving":"reep", "hoeveelheid":85},			
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Braadworst runder", "group":"C", "category":"Vlees", "Defaulthoev":90, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":205, "Eiwit":21, "Koolh":0, "Vet":13, "Verzvet":5, "Vezels":0, "Natrium":0.6}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":90},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Braadworst varken", "group":"C", "category":"Vlees", "Defaulthoev":90, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":221, "Eiwit":20, "Koolh":0, "Vet":15, "Verzvet":5, "Vezels":0, "Natrium":0.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":90},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brado", "group":"A", "category":"Overig", "Defaulthoev":110, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":270, "Eiwit":20, "Koolh":1, "Vet":21, "Verzvet":4, "Vezels":0, "Natrium":1.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":110},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bramen", "group":"A", "category":"Fruit", "Defaulthoev":125, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":60, "Eiwit":1, "Koolh":8, "Vet":1, "Verzvet":0, "Vezels":4, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":125},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brandewijn", "group":"F", "category":"Alcohol", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":81, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Breaker breakfast", "group":"C", "category":"Overig", "Defaulthoev":200, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":216, "Eiwit":7, "Koolh":30, "Vet":7, "Verzvet":4, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":200},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Breezer", "group":"F", "category":"Drinken", "Defaulthoev":275, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":204, "Eiwit":0, "Koolh":27, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":275},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brie 50+", "group":"C", "category":"Zuivel", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":32, "Eiwit":2, "Koolh":0, "Vet":3, "Verzvet":2, "Vezels":0, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 toastje", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brie 60+", "group":"C", "category":"Zuivel", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":37, "Eiwit":2, "Koolh":0, "Vet":3, "Verzvet":2, "Vezels":0, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"voor 1 toastje", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brinta", "group":"A", "category":"Granen", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":17, "Eiwit":1, "Koolh":3, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brocoli gekookt", "group":"A", "category":"Groente", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":14, "Eiwit":2, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bronwater", "group":"A", "category":"Drinken", "Defaulthoev":250, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":0, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bronwater met zoetstof", "group":"D", "category":"Drinken", "Defaulthoev":250, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":0, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood Allison", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":82, "Eiwit":4, "Koolh":14, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood Blue Band goede start", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":77, "Eiwit":3, "Koolh":14, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood bruin", "group":"B", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":83, "Eiwit":3, "Koolh":15, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood koolhydraatarm", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":84, "Eiwit":6, "Koolh":7, "Vet":3, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood krenten", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":96, "Eiwit":3, "Koolh":19, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood krenten met spijs", "group":"B", "category":"Brood", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":121, "Eiwit":3, "Koolh":21, "Vet":2, "Verzvet":0, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood krenten volkoren", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":89, "Eiwit":3, "Koolh":16, "Vet":1, "Verzvet":0, "Vezels":3, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood krenten/ rozijn met spijs", "group":"B", "category":"Brood", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":121, "Eiwit":3, "Koolh":20, "Vet":3, "Verzvet":0, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood mais", "group":"B", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":92, "Eiwit":4, "Koolh":16, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood meergranen", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":91, "Eiwit":4, "Koolh":14, "Vet":2, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood mout tarvo", "group":"B", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":87, "Eiwit":3, "Koolh":16, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood muesli volkoren", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":103, "Eiwit":4, "Koolh":15, "Vet":3, "Verzvet":1, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"broodje", "hoeveelheid":60},			
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood rogge donker", "group":"A", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":87, "Eiwit":3, "Koolh":16, "Vet":1, "Verzvet":0, "Vezels":4, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood rogge licht", "group":"A", "category":"Brood", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":58, "Eiwit":0, "Koolh":11, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood rozijnen", "group":"B", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":95, "Eiwit":3, "Koolh":18, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood suiker wit", "group":"C", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":137, "Eiwit":4, "Koolh":27, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood volkoren", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":82, "Eiwit":4, "Koolh":14, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood volkoren met pompoenpitten", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":89, "Eiwit":5, "Koolh":12, "Vet":2, "Verzvet":0, "Vezels":3, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood volkoren met zonnebloempitten", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":95, "Eiwit":4, "Koolh":13, "Vet":2, "Verzvet":0, "Vezels":3, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood volkoren 40% minder zout", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":82, "Eiwit":4, "Koolh":14, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood Waldkorn", "group":"A", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":94, "Eiwit":4, "Koolh":13, "Vet":3, "Verzvet":0, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"broodje", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit luxe", "group":"B", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":4, "Koolh":21, "Vet":2, "Verzvet":0, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"broodje", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit met maanzaad", "group":"B", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":4, "Koolh":21, "Vet":2, "Verzvet":0, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"broodje", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit met sesamzaad", "group":"B", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":4, "Koolh":21, "Vet":2, "Verzvet":0, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"broodje", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit met zonnebloempitten", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":105, "Eiwit":4, "Koolh":15, "Vet":3, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"broodje", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit water", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":86, "Eiwit":3, "Koolh":17, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit melk", "group":"C", "category":"Brood", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":90, "Eiwit":3, "Koolh":17, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood wit Turks", "group":"C", "category":"Brood", "Defaulthoev":30, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":75, "Eiwit":3, "Koolh":15, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brood zuurdesem volkoren", "group":"A", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":5, "Koolh":20, "Vet":1, "Verzvet":0, "Vezels":3, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"snee", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje bruin", "group":"B", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":5, "Koolh":21, "Vet":1, "Verzvet":0, "Vezels":3, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje ciabatta", "group":"C", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":128, "Eiwit":5, "Koolh":24, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje meergranen hard", "group":"B", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":147, "Eiwit":6, "Koolh":22, "Vet":3, "Verzvet":0, "Vezels":3, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+
+	{ "product":"Broodje meergranen zacht", "group":"B", "category":"Brood", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":170, "Eiwit":8, "Koolh":23, "Vet":4, "Verzvet":1, "Vezels":4, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+	
+	{ "product":"Broodje pistolet bruin", "group":"B", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":118, "Eiwit":5, "Koolh":21, "Vet":1, "Verzvet":0, "Vezels":3, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje pistolet wit", "group":"C", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":125, "Eiwit":5, "Koolh":24, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje pita", "group":"C", "category":"Brood", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":110, "Eiwit":4, "Koolh":23, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje shoarma", "group":"C", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":124, "Eiwit":5, "Koolh":24, "Vet":2, "Verzvet":0, "Vezels":4, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje tarwe hard", "group":"B", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":139, "Eiwit":6, "Koolh":26, "Vet":1, "Verzvet":0, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje tarwe zacht", "group":"B", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":129, "Eiwit":6, "Koolh":21, "Vet":2, "Verzvet":0, "Vezels":3, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje volkoren zacht", "group":"A", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":124, "Eiwit":6, "Koolh":20, "Vet":2, "Verzvet":0, "Vezels":4, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje wit", "group":"C", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 	
+			{"merk":"Algemeen", "Kcal":124, "Eiwit":5, "Koolh":24, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Broodje wit hard", "group":"C", "category":"Brood", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":138, "Eiwit":5, "Koolh":27, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Brownie", "group":"F", "category":"Koek/gebak", "Defaulthoev":65, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":292, "Eiwit":4, "Koolh":34, "Vet":16, "Verzvet":6, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":65},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bruine bonen gekookt", "group":"A", "category":"Groente", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":79, "Eiwit":5, "Koolh":10, "Vet":1, "Verzvet":0, "Vezels":7, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bruine bonensoep zonder vlees", "group":"E", "category":"Soep", "Defaulthoev":250, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":152, "Eiwit":9, "Koolh":19, "Vet":3, "Verzvet":1, "Vezels":11, "Natrium":0.7}
+		],
+		"Eenheden" : [
+			{"omschrijving":"kop", "hoeveelheid":250},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}			
+			
+	{ "product":"Bulgur gekookt", "group":"C", "category":"Overig", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : 
+			{"merk":"Algemeen", "Kcal":60, "Eiwit":2, "Koolh":13, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		]
+	}

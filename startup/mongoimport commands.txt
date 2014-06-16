@@ -1,6 +1,7 @@
 mongod.exe --dbpath "E:\database"
 mongoimport -d dieet -c categories categories.json
 
+mongoimport -d dieet -c products --file a.json --jsonArray
 mongoimport -d dieet -c products --file aardappel.json --jsonArray
 mongoimport -d dieet -c products --file alcohol.json --jsonArray
 mongoimport -d dieet -c products --file brood.json --jsonArray

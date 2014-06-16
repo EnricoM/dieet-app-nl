@@ -1,0 +1,604 @@
+	{ "product":"Aalbessen", "group":"A", "category":"Fruit", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":48, "Eiwit":1, "Koolh":5, "Vet":0.0, "Verzvet":0, "Vezels":8, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje (100 gram)", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aalbessen.jpg"
+	}
+
+	{ "product":"Aardappelbolletje, gefrituurd", "group":"C", "category":"Aardappel", "Defaulthoev":7, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":17, "Eiwit":0, "Koolh":2, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"bolletje (7 gram)", "hoeveelheid":7},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_bolletje.jpg"
+	}
+	
+	{ "product":"Aardappelen, gebakken", "group":"C", "category":"Aardappel", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":60, "Eiwit":1, "Koolh":8, "Vet":2, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_gebakken.jpg"
+	}
+
+	{ "product":"Aardappelen,gegratineerd", "group":"C", "category":"Aardappel", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":48, "Eiwit":3, "Koolh":5, "Vet":2, "Verzvet":1, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_gegratineerd.jpg"
+	}
+	
+	{ "product":"Aardappelen,gekookt", "group":"A", "category":"Aardappel", "Defaulthoev":70, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":58, "Eiwit":1, "Koolh":12, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":70},
+			{"omschrijving":"kleine", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_gekookt.jpg"
+	}
+
+	{ "product":"Aardappelkroket", "group":"C", "category":"Aardappel", "Defaulthoev":30, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":72, "Eiwit":1, "Koolh":9, "Vet":4, "Verzvet":2, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":30},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_kroket.jpg"
+	}
+
+	{ "product":"Aardappelmeel", "group":"C", "category":"Aardappel", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":32, "Eiwit":0, "Koolh":8, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_meel.jpg"
+	}
+
+	{ "product":"Aardappelpuree", "group":"B", "category":"Aardappel", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":42, "Eiwit":1, "Koolh":7, "Vet":1, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_puree.jpg"
+	}
+
+	{ "product":"Aardappelsalade", "group":"F", "category":"Salades", "Defaulthoev":50, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":85, "Eiwit":1, "Koolh":7, "Vet":6, "Verzvet":1, "Vezels":1, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":50},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardappel_salade.jpg"
+	}
+
+	{ "product":"Aardbeien", "group":"A", "category":"Fruit", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":29, "Eiwit":1, "Koolh":5, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardbeien.jpg"
+	}
+	{ "product":"Aardbeien, siroop", "group":"C", "category":"Aardappel", "Defaulthoev":125, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":89, "Eiwit":1, "Koolh":21, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":125},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aardbeien_siroop.jpg"
+	}	
+	
+	{ "product":"Abrikozen, siroop", "group":"C", "category":"Aardappel", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":28, "Eiwit":0, "Koolh":6, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "abrikozen_siroop.jpg"
+	}
+	
+	{ "product":"Abrikozen, gedroogd", "group":"C", "category":"Aardappel", "Defaulthoev":3, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":9, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "abrikozen_gedroogd.jpg"
+	}
+	
+	{ "product":"Abrikozen, geweekt", "group":"C", "category":"Aardappel", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":40, "Eiwit":1, "Koolh":8, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "abrikozen_geweekt.jpg"
+	}
+
+		{ "product":"Abrikozen, vers", "group":"A", "category":"Aardappel", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":9, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "abrikozen.jpg"
+	}
+	
+	{ "product":"Achterham", "group":"C", "category":"Vleeswaren", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":27, "Eiwit":4, "Koolh":1, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "achterham.jpg"
+	}
+
+	{ "product":"Achterham, gegrild", "group":"C", "category":"Vleeswaren", "Defaulthoev":20, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":24, "Eiwit":4, "Koolh":0, "Vet":1, "Verzvet":0, "Vezels":0, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"plak", "hoeveelheid":20},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "achterham_gegrild.jpg"
+	}
+	
+	{ "product":"Actimel, naturel", "group":"C", "category":"Drinken", "Defaulthoev":100, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":71, "Eiwit":3, "Koolh":12, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"flesje", "hoeveelheid":100},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		],
+		"image" : "actimel.jpg"
+	}
+
+	{ "product":"Advocaat", "group":"F", "category":"Alcohol", "Defaulthoev":50, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":119, "Eiwit":2, "Koolh":12, "Vet":2, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":50},
+			{"omschrijving":"ml", "hoeveelheid":1}
+		],
+		"image" : "advocaat.jpg"
+	}
+	
+	{ "product":"After Dinner, mint", "group":"D", "category":"Snoep", "Defaulthoev":3, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":12, "Eiwit":0, "Koolh":3, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "afterdinner_mint.jpg"
+	}	
+	
+	{ "product":"After Eight", "group":"F", "category":"Snoep", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":42, "Eiwit":0, "Koolh":8, "Vet":1, "Verzvet":1, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aftereight.jpg"
+	}		
+	
+	{ "product":"All Bran Plus", "group":"A", "category":"Overig", "Defaulthoev":5, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":17, "Eiwit":1, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":5},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "allbran_plus.jpg"
+	}			
+		
+	{ "product":"Amandelbroodje", "group":"F", "category":"Overig", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":273, "Eiwit":6, "Koolh":31, "Vet":14, "Verzvet":6, "Vezels":2, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "amandelbroodje.jpg"
+	}			
+	
+	{ "product":"Amandelen", "group":"F", "category":"Noten", "Defaulthoev":25, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":165, "Eiwit":5, "Koolh":4, "Vet":14, "Verzvet":1, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"handje", "hoeveelheid":25},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "amandelen.jpg"
+	}			
+	
+	{ "product":"Amsoi, gekookt", "group":"A", "category":"Groenten", "Defaulthoev":55, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":16, "Eiwit":1, "Koolh":3, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":55},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "amsoi.jpg"
+	}	
+
+	{ "product":"Amsterdamse ui", "group":"C", "category":"Groenten", "Defaulthoev":4, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":1, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":4},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "amsterdamse_ui.jpg"
+	}	
+	
+	{ "product":"Ananas, siroop", "group":"C", "category":"Overig", "Defaulthoev":125, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":79, "Eiwit":1, "Koolh":18, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":125},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "ananas_siroop.jpg"
+	}
+	
+	{ "product":"Ananas", "group":"A", "category":"Fruit", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":57, "Eiwit":1, "Koolh":12, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schijf", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "ananas.jpg"
+	}	
+	
+	{ "product":"Ananassap", "group":"C", "category":"Drinken", "Defaulthoev":150, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":70, "Eiwit":1, "Koolh":17, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":1500},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "ananas_sap.jpg"
+	}
+	
+	{ "product":"Andijvie gekookt", "group":"A", "category":"Groenten", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":14, "Eiwit":1, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "andijvie_gekookt.jpg"
+	}
+	
+	{ "product":"Andijvie rauw", "group":"A", "category":"Groenten", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":6, "Eiwit":1, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "andijvie_rauw.jpg"
+	}	
+	
+	{ "product":"Anijshagel", "group":"F", "category":"Broodbeleg", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":59, "Eiwit":0, "Koolh":15, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "anijshagel.jpg"
+	}	
+	
+	{ "product":"Ansjovis in blik", "group":"A", "category":"Vis", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":8, "Eiwit":1, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "ansjovis_blik.jpg"
+	}		
+	
+	{ "product":"Apfelkorn", "group":"F", "category":"Alcohol", "Defaulthoev":35, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":63, "Eiwit":0, "Koolh":4, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "apfelkorn.jpg"
+	}	
+	
+	{ "product":"Appel met schil", "group":"A", "category":"Fruit", "Defaulthoev":135, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":81, "Eiwit":0, "Koolh":18, "Vet":0, "Verzvet":0, "Vezels":3, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":135},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel.jpg"
+	}	
+	
+	{ "product":"Appel zonder schil", "group":"A", "category":"Fruit", "Defaulthoev":120, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":70, "Eiwit":0, "Koolh":16, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":120},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_zonder_schil.jpg"
+	}	
+	
+	{ "product":"Appelbeignet", "group":"E", "category":"Koek/gebak", "Defaulthoev":55, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":85, "Eiwit":2, "Koolh":15, "Vet":2, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":55},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_beignet.jpg"
+	}	
+	
+	{ "product":"Appelbol", "group":"F", "category":"Koek/gebak", "Defaulthoev":170, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":583, "Eiwit":6, "Koolh":66, "Vet":32, "Verzvet":17, "Vezels":4, "Natrium":0.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":170},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_bol.jpg"
+	}	
+	
+	{ "product":"Appelcarre", "group":"F", "category":"Koek/gebak", "Defaulthoev":170, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":583, "Eiwit":6, "Koolh":66, "Vet":32, "Verzvet":17, "Vezels":4, "Natrium":0.4}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":170},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_carre.jpg"
+	}	
+	
+	{ "product":"Appelflap", "group":"F", "category":"Koek/gebak", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":361, "Eiwit":4, "Koolh":36, "Vet":22, "Verzvet":10, "Vezels":2, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_flap.jpg"
+	}	
+	
+	{ "product":"Appelkoek", "group":"F", "category":"Koek/gebak", "Defaulthoev":45, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":176, "Eiwit":1, "Koolh":29, "Vet":6, "Verzvet":3, "Vezels":1, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":45},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_koek.jpg"
+	}	
+	
+	{ "product":"Appelkruimelvlaai", "group":"F", "category":"Koek/gebak", "Defaulthoev":135, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":410, "Eiwit":5, "Koolh":62, "Vet":15, "Verzvet":8, "Vezels":3, "Natrium":0.3}
+		],
+		"Eenheden" : [
+			{"omschrijving":"punt", "hoeveelheid":135},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_kruimel_vlaai.jpg"
+	}	
+	
+	{ "product":"Appelmoes met suiker", "group":"C", "category":"Dessert", "Defaulthoev":205, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":148, "Eiwit":0, "Koolh":36, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":205},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appelmoes_suiker.jpg"
+	}	
+	
+	{ "product":"Appelmoes zonder suiker", "group":"C", "category":"Dessert", "Defaulthoev":205, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":105, "Eiwit":0, "Koolh":24, "Vet":0, "Verzvet":0, "Vezels":3, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"schaaltje", "hoeveelheid":205},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appelmoes_zonder_suiker.jpg"
+	}	
+	
+	{ "product":"Appelsap", "group":"C", "category":"Dranken", "Defaulthoev":150, "Eenheid":"ml",  
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":66, "Eiwit":0, "Koolh":16, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appelsap.jpg"
+	}	
+	
+	{ "product":"Appelsap met virmanine C", "group":"F", "category":"Dranken", "Defaulthoev":150, "Eenheid":"ml", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":64, "Eiwit":0, "Koolh":16, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"glas", "hoeveelheid":150},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appelsap_vitamine_c.jpg"
+	}	
+	
+	{ "product":"Appelstroop", "group":"E", "category":"Broodbeleg", "Defaulthoev":15, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":35, "Eiwit":0, "Koolh":8, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"boterham", "hoeveelheid":15},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appelstroop.jpg"
+	}
+	
+	{ "product":"Appeltaart", "group":"F", "category":"Koek/gebak", "Defaulthoev":100, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":286, "Eiwit":4, "Koolh":41, "Vet":11, "Verzvet":4, "Vezels":2, "Natrium":0.1}
+		],
+		"Eenheden" : [
+			{"omschrijving":"punt", "hoeveelheid":100},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appeltaart.jpg"
+	}	
+	
+	{ "product":"Appeltjes (gedroogd)", "group":"C", "category":"Fruit", "Defaulthoev":3, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":9, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":3},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_gedroogd.jpg"
+	}
+	
+	{ "product":"Appeltjes (geweekt)", "group":"C", "category":"Fruit", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":8, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "appel_geweekt.jpg"
+	}			
+
+	{ "product":"Asperges (gekookt)", "group":"A", "category":"Groenten", "Defaulthoev":35, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":6, "Eiwit":0, "Koolh":1, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"stuk", "hoeveelheid":35},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "asperges.jpg"
+	}			
+	
+	{ "product":"Atjar tjoempoer", "group":"C", "category":"Groenten", "Defaulthoev":40, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":12, "Eiwit":0, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":1, "Natrium":0.2}
+		],
+		"Eenheden" : [
+			{"omschrijving":"eetlepel", "hoeveelheid":40},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "atjar_tjoempoer.jpg"
+	}
+
+	{ "product":"Aubergine (gekookt)", "group":"A", "category":"Fruit", "Defaulthoev":60, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":13, "Eiwit":1, "Koolh":2, "Vet":0, "Verzvet":0, "Vezels":2, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"opscheplepel", "hoeveelheid":60},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "aubergine.jpg"
+	}
+
+	{ "product":"Augurken", "group":"C", "category":"Groenten", "Defaulthoev":10, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":2, "Eiwit":0, "Koolh":0, "Vet":0, "Verzvet":0, "Vezels":0, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"kleine", "hoeveelheid":10},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "augurken.jpg"
+	}
+
+	{ "product":"Avocado", "group":"A", "category":"Fruit", "Defaulthoev":90, "Eenheid":"gram", 
+		"Merken" : [
+			{"merk":"Algemeen", "Kcal":179, "Eiwit":2, "Koolh":2, "Vet":18, "Verzvet":2, "Vezels":4, "Natrium":0}
+		],
+		"Eenheden" : [
+			{"omschrijving":"halve", "hoeveelheid":90},
+			{"omschrijving":"gram", "hoeveelheid":1}
+		],
+		"image" : "avocado.jpg"
+	}	
